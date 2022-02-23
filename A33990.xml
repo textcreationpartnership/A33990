@@ -1,0 +1,3441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The marrow of gospel-history, or, A diversion for youth at their spare hours being a poem on the birth, life, death, and resurrection of our most blessed lord and saviour, Jesus Christ : with some thoughts on the apostate angels and fallen man ... / by Hercules Collins ...</title>
+            <author>Collins, Hercules, d. 1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33990</idno>
+            <idno type="STC">Wing C5362</idno>
+            <idno type="STC">ESTC R43110</idno>
+            <idno type="EEBO-CITATION">26823436</idno>
+            <idno type="OCLC">ocm 26823436</idno>
+            <idno type="VID">109813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109813)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1714:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The marrow of gospel-history, or, A diversion for youth at their spare hours being a poem on the birth, life, death, and resurrection of our most blessed lord and saviour, Jesus Christ : with some thoughts on the apostate angels and fallen man ... / by Hercules Collins ...</title>
+                  <author>Collins, Hercules, d. 1702.</author>
+               </titleStmt>
+               <extent>104 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Errata: p. 104.</note>
+                  <note>Imperfect: p. 83-86 lacking; cropped, with some loss of text; best copy available for photographing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Meditations.</term>
+               <term>Jesus Christ --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109813:1" rendition="simple:additions"/>
+            <p>THE MARROW OF Goſpel-Hiſtory: OR, A Diverſion for Youth at their ſpare Hours.</p>
+            <p>Being a POEM on the <hi>Birth, Life, Death,</hi> and <hi>Reſurrection</hi> of our moſt bleſſed Lord and Saviour <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>With ſome Thoughts on the Apoſtate Angels, and fallen Man: The for<g ref="char:EOLhyphen"/>mer under an irrecoverable Eſtate, having no Object of Faith for Sal<g ref="char:EOLhyphen"/>vation: And the latter reſtored by the Death of Chriſt.</p>
+            <p>By <hi>HERC<g ref="char:V">Ʋ</g>LES COLLINS</hi> of <hi>Wapping.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:109813:2"/>
+            <pb n="3" facs="tcp:109813:2"/>
+            <head>A POEM on the <hi>Birth, Life, Death,</hi> and <hi>Reſurrection</hi> of our moſt bleſſed Lord and Savi<g ref="char:EOLhyphen"/>our JESUS CHRIST.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>Theophilus <hi>the Lover of God, begins in making mention of the unſearchable Attri<g ref="char:EOLhyphen"/>butes and Perfections of</hi> Jehovah, <hi>and how he is encompaſſed on his glorious Throne by the Holy Hierarchy and Order of Angels, Seraphims, Cherubims, Thrones, Domi<g ref="char:EOLhyphen"/>nions, Principalities, Powers, Archangels, who are Eternally caſting their Crowns at the Feet of the Incomprehenſible Trinity, with</hi> Hallelujahs.</p>
+               </argument>
+               <lg>
+                  <l>
+                     <hi>JEHOVAH</hi> right, is Infinite,</l>
+                  <l>And in eternal Bliſs:</l>
+                  <l>The moſt Supream therefore doth reign,</l>
+                  <l>O Kings give him a Kiſs.
+<note place="margin">
+                        <hi>Pſ.</hi> 2.12.</note>
+                  </l>
+                  <pb n="4" facs="tcp:109813:3"/>
+                  <l>Who is Immenſe, and full of Senſe,</l>
+                  <l>An independent Good;</l>
+                  <l>Yea, only Wiſe: do not deſpiſe</l>
+                  <l>The Everliving God.</l>
+                  <l>In all his Will immutable,</l>
+                  <l>For Changes he knows none:</l>
+                  <l>How can that be, when perfect's he,</l>
+                  <l>Three Perſons yet but One?</l>
+               </lg>
+               <lg>
+                  <l>Pure Angels fall, and honour all</l>
+                  <l>The Glorious Trinity,</l>
+                  <l>With Crowns down caſt, their Praiſes laſt</l>
+                  <l>Unto Eternity.</l>
+                  <l>The Seraphims, and Cherubims,</l>
+                  <l>Thrones, Principalities;</l>
+                  <l>Dominions too, Archangels true,</l>
+                  <l>Their God for ever praiſe.</l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>Here interpoſeth an holy Evangeliſt, who give an Account of the horrible Revolt of ſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the Angels from</hi> Jehovah <hi>their ſuprea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Lord: And that one of them, now calle</hi> Beelzebub, <hi>headed Thouſands, with Deſign to overthrow God's Monarchy.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <pb n="5" facs="tcp:109813:3"/>
+                  <l>BUT one thro Pride, became a Head</l>
+                  <l>To thouſands, who reſolv'd</l>
+                  <l>God's Monarchy for to deſtroy,</l>
+                  <l>Rather than be controul'd.</l>
+                  <l>They War maintain, in Heaven's Plain,</l>
+                  <l>So they might equal be,</l>
+                  <l>In Honour, Praiſe, and length of Days,</l>
+                  <l>Unto the Trinity.</l>
+               </lg>
+               <lg>
+                  <l>God pleads his Rights, and them deſpites,</l>
+                  <l>So hurls them into Hell,</l>
+                  <l>To the Abyſs, Pit bottomleſs,</l>
+                  <l>Where they ſhall ever yell.</l>
+                  <l>Then Satan proud, he ſpake aloud,</l>
+                  <l>What tho the Field be loſt?</l>
+                  <l>All is not gone, my Heart's not won,</l>
+                  <l>To love <hi>Jehovah</hi> moſt.</l>
+               </lg>
+               <lg>
+                  <l>This I can boaſt, all is not loſt,</l>
+                  <l>My Will's unconq'rable;</l>
+                  <l>Reſolv'd I be ſtill to be free,</l>
+                  <l>Tho I remain a Devil.</l>
+                  <l>'Twere ſhame for me to bow the Knee,</l>
+                  <l>And God adore and love:</l>
+                  <l>A Prince in Hell, doth far excel</l>
+                  <l>Subjection, tho above. <note place="margin">Mr. <hi>Milton.</hi>
+                     </note>
+                  </l>
+                  <l>A Chaos great, and Abyſs deep,</l>
+                  <l>God caſts thoſe Rebels in;</l>
+                  <l>A burning Lake is their ſad Fate,</l>
+                  <l>And Flames all ſurrounding.</l>
+               </lg>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="6" facs="tcp:109813:4"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>Jehovah <hi>himſelf gives a Relation of h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> framing the Heavens and Earth; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> how he created another Creature calle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Man, <hi>to ſerve him better than the falle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Angels; and having very glorious Qua<g ref="char:EOLhyphen"/>lifications, is made Lord of the New World.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>THE Earth and Man, I God did frame,</l>
+                  <l>And made him Lord of all,</l>
+                  <l>In Righteouſneſs and Holineſs,</l>
+                  <l>With an immortal Soul.</l>
+                  <l>This Man moſt wiſe, in Paradiſe,</l>
+                  <l>I fixt with great delight;</l>
+                  <l>Whoſe Will was free, at liberty,</l>
+                  <l>To be unjuſt or right.</l>
+               </lg>
+               <lg>
+                  <l>That Man alone might not lie down,</l>
+                  <l>A Help-meet him I gave;</l>
+                  <l>And from his Bone, and Fleſh alone,</l>
+                  <l>The Woman came moſt brave.</l>
+                  <l>And for a time, how did they ſhine,</l>
+                  <l>In this delightful Place;</l>
+                  <l>In this new Land, how Hand in Hand,</l>
+                  <l>They walk'd with God in Grace.</l>
+               </lg>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="7" facs="tcp:109813:4"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>an having diſcovered the New World, and Man reigning as King in it, the De<g ref="char:EOLhyphen"/>vil envies his Paradiſical State; and in order to make him miſerable like himſelf, he tempts him to throw off the Government of his Lord and Maker: All which the good Angel which guarded Paradiſe, could not be ignorant of.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>SATAN did tell the Peers of Hell,</l>
+                  <l>An Antient Prophecy</l>
+                  <l>In Heaven was, A World ſhould riſe</l>
+                  <l>From nothing very high.</l>
+                  <l>In which New Land, I underſtand,</l>
+                  <l>A Creature beautiful;</l>
+                  <l>Not much below our ſelves, I know,</l>
+                  <l>Will reign as I in Hell.</l>
+               </lg>
+               <lg>
+                  <l>Come noble Peers, ſome Courſe let's ſteer,</l>
+                  <l>This Land for to diſcover;</l>
+                  <l>And then allure this Creature pure,</l>
+                  <l>To act as our own Brother.</l>
+                  <l>God on his Throne, with his bleſt Son,</l>
+                  <l>Saw Satan ſwiftly fly,</l>
+                  <l>Unto the Man in this new Land,</l>
+                  <l>To bring to miſery.</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:109813:5"/>
+                  <l>The Angels good, they underſtood,</l>
+                  <l>While guarding this new Creature;</l>
+                  <l>The fallen One diſcovered Man,</l>
+                  <l>With a moſt bleſſed Feature.</l>
+                  <l>An evil one, they ſaw fly down,</l>
+                  <l>To <hi>Adam</hi> in diſguiſe.</l>
+                  <l>So walkt their Rounds, the Garden-Bounds,</l>
+                  <l>If him they might ſurprize.</l>
+               </lg>
+               <lg>
+                  <l>In Paradiſe, he tempts with Lies,</l>
+                  <l>That Man his Bliſs might loſe;</l>
+                  <l>As he loſt God, all Hope and Good,</l>
+                  <l>Which made him thus confus'd.</l>
+                  <l>Satan did fix the weakeſt Sex,</l>
+                  <l>With <hi>Eve</hi> did thus begin;</l>
+                  <l>To eat's, no Death, the Serpent ſaith,</l>
+                  <l>It's natural, no Sin.</l>
+               </lg>
+               <lg>
+                  <l>The Serpent ſpeaks ſo fine and neat,</l>
+                  <l>Which made the Woman ſay,</l>
+                  <l>How came you thus, to ſpeak to us,</l>
+                  <l>By taſting yonder Tree?</l>
+                  <l>Come eat good Food, and know as God,</l>
+                  <l>Don't live in Ignorance;</l>
+                  <l>In Envy he forbiddeth thee</l>
+                  <l>This Tree; come eat but once.</l>
+               </lg>
+               <lg>
+                  <l>And ſo at laſt, through ſinful Luſt,</l>
+                  <l>They both were overcome;</l>
+                  <l>Their Fruit dear coſt, God's Image loſt,</l>
+                  <l>And ſo the World's undone.</l>
+                  <pb n="9" facs="tcp:109813:5"/>
+                  <l>For Man his Maker, his Creator,</l>
+                  <l>In Paradiſe enjoyed:</l>
+                  <l>Till he did ſin againſt his King,</l>
+                  <l>Nothing the Man annoy'd.</l>
+               </lg>
+               <lg>
+                  <l>Till he did break, and violate</l>
+                  <l>The Law of his Supream;</l>
+                  <l>His Happineſs was perfect Bliſs,</l>
+                  <l>He as a King did reign:</l>
+                  <l>But on the Fall he came in thrall,</l>
+                  <l>And was caſt from his height;</l>
+                  <l>The flaming Sword it brandiſhed,</l>
+                  <l>To keep the Tree of Life.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Adam</hi>'s Eyes apologiz'd,</l>
+                  <l>No Boon was to be had;</l>
+                  <l>No Penance then could help the Man,</l>
+                  <l>To make him once more glad.</l>
+                  <l>And muſt I go, from <hi>Eden</hi> ſo,</l>
+                  <l>As not to return more,</l>
+                  <l>From this ſweet Place, and God of Grace?</l>
+                  <l>O this is very ſore.</l>
+               </lg>
+               <lg>
+                  <l>O might I ſtay, I would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bey,</l>
+                  <l>And never more offend:</l>
+                  <l>Who'l intercede, and for me beg,</l>
+                  <l>
+                     <hi>Eden</hi> my Days may end?</l>
+                  <l>Thoſe fragrant Smells, which far excel</l>
+                  <l>The Scents of <hi>Lebanon;</hi>
+                  </l>
+                  <pb n="10" facs="tcp:109813:6"/>
+                  <l>And Odours free, on every Tree,</l>
+                  <l>I'll offer God alone.<note place="margin">Mr. <hi>Norris.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I'll take my Rounds, in <hi>Eden</hi>'s Bounds,</l>
+                  <l>Before I do depart:</l>
+                  <l>Now farewel all, my Joys do fail,</l>
+                  <l>By a deceived Heart.</l>
+                  <l>A publick Head, ſo <hi>Adam</hi> ſtood,</l>
+                  <l>As Chriſt is of his Spouſe;</l>
+                  <l>And what he did, as our chief Head,</l>
+                  <l>We did it gain or loſe.</l>
+               </lg>
+               <lg>
+                  <l>None would refuſe, but <hi>Adam</hi> chuſe</l>
+                  <l>Them for to repreſent:</l>
+                  <l>O none ſo fit, nor none ſo meet,</l>
+                  <l>Whatever the Event.</l>
+                  <l>Therefore let none on God lay blame,</l>
+                  <l>That we in <hi>Adam</hi> fell:</l>
+                  <l>Had any his Choice, it had been thus,</l>
+                  <l>Pure Reaſon doth us tell.</l>
+               </lg>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>Adam <hi>apologizing for himſelf, lays the Cauſe of his Apoſtacy on his Sovereign Lord and the Woman, the Woman on the Serpent; a Curſe deſcends on them all. Now Man being undone by the abuſe of his Free-Will,
+<pb n="11" facs="tcp:109813:6"/>hath no hopes of any Reſtoration, unleſs the uncreated Being ſhew Man more favour than the fallen Angels.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>THIS Woman ſee, thou gaveſt me,</l>
+                  <l>Tempted, and I did eat.</l>
+                  <l>O, blame not God, Free-will abus'd,</l>
+                  <l>Was it thy Soul did cheat.</l>
+                  <l>The Woman vain, ſhe lays the blame,</l>
+                  <l>Upon the Serpent's Guile.</l>
+                  <l>Who to her ſaid, Like unto God</l>
+                  <l>You ſhall be in a while.</l>
+               </lg>
+               <lg>
+                  <l>From ſinful Luſt, Judgment doth haſte,</l>
+                  <l>On Man and Woman too.</l>
+                  <l>'Tis they muſt die, that lov'd a Lie</l>
+                  <l>Above a God moſt true.</l>
+                  <l>The Ground once bleſt, with Thorns is curſt,</l>
+                  <l>The Woman bears in ſorrow.</l>
+                  <l>And Man muſt ſweat, if Bread he'll eat:</l>
+                  <l>The Serpent trails the Furrow.</l>
+               </lg>
+               <lg>
+                  <l>Thus happy Man, he is undone,</l>
+                  <l>Himſelf he can't reſtore.</l>
+                  <l>O Man's ſad Fate, the Devil's State</l>
+                  <l>He's in for evermore,</l>
+                  <l>Unleſs ſome State, that's uncreate,</l>
+                  <l>More pity ſhew to Man,</l>
+                  <l>Than Angels have, whom God won't ſave,</l>
+                  <l>That from their Maker ran.</l>
+               </lg>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="12" facs="tcp:109813:7"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>Jehovah <hi>ſeeing his Creature Man undone in the New World, begins to be concerned how he may be reſtored, and not for ever loſt as the revolted Angels. He makes a Propoſition to the heavenly Hoſts to this End; but all ſtood mute, until the Son of God broke ſilence, with the offer of himſelf to be Man's Redeemer: <g ref="char:V">Ʋ</g>pon which the heavenly Hoſt gave a Shout, with Halle<g ref="char:EOLhyphen"/>lujah's.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>SHALL Man be loſt, by Devil's Luſt,</l>
+                  <l>And ne'r recover'd more?</l>
+                  <l>Shall Devils boaſt of their Conqueſt,</l>
+                  <l>And triumph in their Power?</l>
+                  <l>Come heavenly Hoſt, can none ſuggeſt</l>
+                  <l>Where ſuch Love can be found?</l>
+                  <l>You Spirits all, who'l be mortal,</l>
+                  <l>That Juſtice may not wound</l>
+               </lg>
+               <lg>
+                  <l>The Man to Death, I made of Earth;</l>
+                  <l>But may for ever live?</l>
+                  <l>Who'l pity take on his ſad State,</l>
+                  <l>For Man himſelf will give?</l>
+                  <l>Now all ſtood mute, and ſilent to't,</l>
+                  <l>A Pauſe in Heaven's made;</l>
+                  <pb n="13" facs="tcp:109813:7"/>
+                  <l>Till one did break the Silence great,</l>
+                  <l>And there it was replied</l>
+               </lg>
+               <lg>
+                  <l>By God's own Son; What! is there none</l>
+                  <l>That will Compaſſion ſhow?</l>
+                  <l>I looked when ſome Seraphim</l>
+                  <l>Would pity Man below.</l>
+                  <l>I God's dear Son, will Man become,</l>
+                  <l>A Man of Sorrow's Death:</l>
+                  <l>This glorious Throne I'll leave anon,</l>
+                  <l>And deſcend to the Earth,</l>
+               </lg>
+               <lg>
+                  <l>For to reſtore this Man ſo poor,</l>
+                  <l>Unto a better State;</l>
+                  <l>And make him wiſe, a Paradiſe</l>
+                  <l>He ſhan't loſe as of late.</l>
+                  <l>Then Heaven rang, the Angels ſang,</l>
+                  <l>That ſplendid Hoſt above;</l>
+                  <l>Who ſaw ſuch Grace, in God's Son's Face,</l>
+                  <l>And ſhewed Man ſuch Love.</l>
+               </lg>
+               <lg>
+                  <l>And God did ſee, his own Decree</l>
+                  <l>From Love to Man he made,</l>
+                  <l>Even from high Eternity,</l>
+                  <l>Which runs not retrograde.</l>
+                  <l>He gave his Son for ſinful Man,</l>
+                  <l>That in his ſtead might die;</l>
+                  <l>And ſet his Face in our Law-Place,</l>
+                  <l>Us to indempnify.</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:109813:8"/>
+                  <l>The Angels ſhape he doth not take,</l>
+                  <l>Nor them redeem to live:</l>
+                  <l>Yet let none ſpeak, thus God is weak,</l>
+                  <l>Or Grace diminutive.</l>
+                  <l>I thee do tell, unſearchable</l>
+                  <l>Is his Beneficence.</l>
+                  <l>Yet know alſo, he'l ſave but who</l>
+                  <l>His Sovereign Will preſents.</l>
+               </lg>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>An Apoſtle extraordinary relates how that</hi> Jehovah <hi>had a Son, who was to be born of a Virgin. The great End and Scope of it, was the Redemption of a loſt World.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>IF ſome would know, how Man from Wo</l>
+                  <l>Is brought, and ſet in Bliſs.</l>
+                  <l>A Wonder's wrought, come ſee God's Thought</l>
+                  <l>In this Analyſis.</l>
+                  <l>The Spirit above, ſell in much Love,</l>
+                  <l>Upon a Virgin ſweet:</l>
+                  <l>To comprehend, or underſtand</l>
+                  <l>This I do not predict.</l>
+               </lg>
+               <lg>
+                  <l>But yet that King, and holy Thing,</l>
+                  <l>Which was in <hi>Mary</hi>'s Womb,</l>
+                  <pb n="15" facs="tcp:109813:8"/>
+                  <l>Was God indeed, of <hi>Abr'am</hi>'s Seed,</l>
+                  <l>True God, and yet true Man.</l>
+                  <l>Who underſtands, how God and Man,</l>
+                  <l>Should in one Perſon dwell?</l>
+                  <l>One Perſon true, yet Natures two,</l>
+                  <l>But one <hi>Immanuel.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>His Godhead Rays had dull'd our Eyes,</l>
+                  <l>But vail'd with humane Fleſh.</l>
+                  <l>His Glory's hid, for there's much need</l>
+                  <l>With Man he ſhould converſe.</l>
+                  <l>And nothing leſs, for Man's Treſpaſs,</l>
+                  <l>An angry God can pleaſe.</l>
+                  <l>But Righteouſneſs, in humane Dreſs,</l>
+                  <l>Can his great Wrath appeaſe.</l>
+               </lg>
+               <lg>
+                  <l>No Diadem, or Hecatomb,</l>
+                  <l>Such large Dimenſions hath</l>
+                  <l>Of bleſſed Good, Chriſt won by Blood,</l>
+                  <l>For thoſe that tread his Path.</l>
+               </lg>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>A Man of God with an antient Record, ſig<g ref="char:EOLhyphen"/>nifieth the Time and Coming of the</hi> Meſ<g ref="char:EOLhyphen"/>ſiah, <hi>and the long Journey he makes to viſit a ſinful World: And tho he ſat as the Second Perſon with the Eternal Trine
+<pb n="16" facs="tcp:109813:9"/>Council in the Court of Celeſtial Glory, upon making and redeeming the World, yet is graciouſly pleaſed to ſuffer hard Things for thoſe who rebelled againſt his Royal Crown and Dignity.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>THE time draws on, the Lord muſt come,</l>
+                  <l>And <hi>Daniel</hi>'s Weeks ſhall end.</l>
+                  <l>It's then ſome will <hi>Meſſiah</hi> kill,</l>
+                  <l>The Sanctuary rend.</l>
+                  <l>And when the Tax, from <hi>Ceſar</hi>'s Acts,</l>
+                  <l>Begins for to commence,</l>
+                  <l>
+                     <hi>Mary</hi> goes then to <hi>Bethlehem,</hi>
+                  </l>
+                  <l>From <hi>Nazareth</hi> went thence.</l>
+               </lg>
+               <lg>
+                  <l>And in a Stable, it's no Fable,</l>
+                  <l>The Virgin did bring forth</l>
+                  <l>The greateſt King ever did reign,</l>
+                  <l>Or will be on the Earth.</l>
+                  <l>This bleſſed King lies in an Inn,</l>
+                  <l>No Princes Court hath he;</l>
+                  <l>But in a Manger, lies in danger,</l>
+                  <l>Expos'd to miſery.</l>
+               </lg>
+               <lg>
+                  <l>O bleſſed Morn, a King is born,</l>
+                  <l>A Virgin-Maid the Mother:</l>
+                  <l>But his Grandſire is God, admire</l>
+                  <l>This Myſt'ry altogether.</l>
+                  <l>But pray from whence did come this Prince?</l>
+                  <l>From Heaven's Council-Board,</l>
+                  <pb n="17" facs="tcp:109813:9"/>
+                  <l>Where he did ſit, in Council great,</l>
+                  <l>Before the World was made.<note place="margin">Mr. <hi>Milton.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Counſels of Love, in Heaven above,</l>
+                  <l>With Father, Son, and Spirit.</l>
+                  <l>Counſels of Peace, how to releaſe,</l>
+                  <l>Man from his ſad Demerit.</l>
+                  <l>In this Compact, Eternal Act,</l>
+                  <l>It was concluded on,</l>
+                  <l>That Man ſhould be the Subject free</l>
+                  <l>Of God's Redemption.</l>
+               </lg>
+               <lg>
+                  <l>In this Contract, and noble Act,</l>
+                  <l>The Price was fixt upon.</l>
+                  <l>Juſtice demands no Gold or Lands,</l>
+                  <l>But Godlike Blood for Man.</l>
+                  <l>A Covenant of Suretiſhip</l>
+                  <l>Chriſt entered into,</l>
+                  <l>That unto Death would give his Life,</l>
+                  <l>And unto God his due.</l>
+               </lg>
+               <lg>
+                  <l>So he might reign, and be a King</l>
+                  <l>Over redeemed Man,</l>
+                  <l>His Captain Head for him will bleed,</l>
+                  <l>And in his room will ſtand.</l>
+                  <l>In this Decree they did agree,</l>
+                  <l>That what the Surety did,</l>
+                  <l>God would impute, from Grace's Root,</l>
+                  <l>As if the Debtor paid.</l>
+               </lg>
+               <lg>
+                  <pb n="18" facs="tcp:109813:10"/>
+                  <l>This Infant God deſerves thy Ode,</l>
+                  <l>Come join the Angels Quire;</l>
+                  <l>And from the Altar of thy Heart,</l>
+                  <l>Aſcend an hallowed Fire.</l>
+                  <l>To him who left his Royal Court,</l>
+                  <l>And choſe a darkſome Houſe:</l>
+                  <l>This Majeſty lays Glory by,</l>
+                  <l>For to eſpouſe a Curſe.</l>
+               </lg>
+               <lg>
+                  <l>And tho this Man from <hi>David</hi> ſprang,</l>
+                  <l>He's pure without, within:</l>
+                  <l>And tho is made of <hi>Abraham</hi>'s Seed,</l>
+                  <l>Hath no Orig'nal Sin.</l>
+                  <l>Pow'r Infinite can ſeparate</l>
+                  <l>Between the Virgin's Sin,</l>
+                  <l>And Virgin's Seed, for there is need</l>
+                  <l>Chriſt be a holy Thing.</l>
+               </lg>
+               <lg>
+                  <l>The Virgin bleſt, lays Chriſt to reſt;</l>
+                  <l>Then round the Courtly Stable</l>
+                  <l>Bright harneſs'd Angels guard the Lord,</l>
+                  <l>While in a Cribbee Cradle.</l>
+               </lg>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>A Celeſtial Meſſenger, called</hi> an Angel, <hi>is diſpatch'd from the Throne, to inform the Shepherds in the Field of the Nativity of
+<pb n="19" facs="tcp:109813:10"/>the</hi> Meſſiah. <hi>The heavenly Hoſt do unite in their ſinging Hallelujah's to the moſt High for ſending his Son to redeem Man. Satan ſends a Summons to his Peers to enter into a deep Council, how he may procure Man's ſecond Revolt, knowing, if he can per<g ref="char:EOLhyphen"/>ſwade Man to rebel againſt the ſecond</hi> Adam, <hi>there remains no more Sacrifice for his Sin.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>THE Angels great, much ſpeed do make</l>
+                  <l>To Shepherds keeping Sheep,</l>
+                  <l>And ſay, Fear not, a Saviour great</l>
+                  <l>Is born, O do not weep.</l>
+                  <l>Rejoice, be glad, come joy in God;</l>
+                  <l>In <hi>David</hi>'s City ſtrong</l>
+                  <l>This Day is born, for Man forlorn,</l>
+                  <l>A Saviour God and Man.</l>
+               </lg>
+               <lg>
+                  <l>The heavenly Hoſt do join their Force,</l>
+                  <l>And give Encomiums high,</l>
+                  <l>To God above, who in much Love,</l>
+                  <l>Hath ſent his Son to die.</l>
+                  <l>Glory to God, the higheſt Good,</l>
+                  <l>Who ſends Peace to the Earth.</l>
+                  <l>Man hath that Bliſs, the Devils miſs,</l>
+                  <l>An Object for his Faith.</l>
+               </lg>
+               <lg>
+                  <l>Thoſe damned Ones, none them bemoans,</l>
+                  <l>Who lie in deep deſpair</l>
+                  <pb n="20" facs="tcp:109813:11"/>
+                  <l>Of any Good from that juſt God,</l>
+                  <l>They all revolted are.</l>
+                  <l>From hence in rage, they all engage,</l>
+                  <l>To envy God and Man,</l>
+                  <l>Glory to God; from Man all Good</l>
+                  <l>They'l hinder what they can.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Adam</hi> the Firſt <hi>Paradiſe</hi> loſt,</l>
+                  <l>Where once he ſweetly ſang:</l>
+                  <l>But was regain'd by Man's good Friend,</l>
+                  <l>Chriſt the triumphant King.</l>
+                  <l>He Satan fought, and gain'd the Fort,</l>
+                  <l>Yea won the Field and Day.</l>
+                  <l>The Woman's Seed did break the Head,</l>
+                  <l>Of Man's grand Enemy.</l>
+               </lg>
+               <lg>
+                  <l>Satan in ſpite, he rallies up</l>
+                  <l>His broken Troops diſpers'd.</l>
+                  <l>A Council calls of black Peers all,</l>
+                  <l>That Man may be diſtreſt.</l>
+                  <l>With our grand Shield, we'l gain the Field</l>
+                  <l>The ſecond <hi>Adam</hi> took.</l>
+                  <l>Come loſe no Ground, come be profound,</l>
+                  <l>That Man from God may look.</l>
+               </lg>
+               <lg>
+                  <l>'Tis our Intent, to circumvent</l>
+                  <l>Both Head and Body too:</l>
+                  <l>If we can part Chriſt and Man's Heart,</l>
+                  <l>That's all we aim to do.</l>
+                  <pb n="21" facs="tcp:109813:11"/>
+                  <l>But he forgot, what was <hi>Job</hi>'s Lot,</l>
+                  <l>And how he fail'd therein:</l>
+                  <l>Yet is ſo mad, to ſet on God,</l>
+                  <l>Who made him of Nothing.</l>
+               </lg>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>Some Country Shepherds are giving an Account to the Nation of the Jews, what an An<g ref="char:EOLhyphen"/>gel had informed them; and of their Jour<g ref="char:EOLhyphen"/>ney to</hi> Bethlehem, <hi>where they found</hi> Joſeph <hi>and</hi> Mary <hi>with the Babe, the Infant-God, lying in a Manger.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>TO <hi>Bethlehem</hi> thoſe Shepherds come,</l>
+                  <l>The Wonderful to ſee:<note place="margin">
+                        <hi>Iſa.</hi> 9.6.</note>
+                  </l>
+                  <l>And found the Lamb, the holy One,</l>
+                  <l>Deſign'd for <hi>Calvary.</hi>
+                  </l>
+                  <l>They told the Jews the Angels News,</l>
+                  <l>
+                     <hi>Immanuel</hi> was come.</l>
+                  <l>Now Admiration fills the Nation,</l>
+                  <l>For this moſt glorious One.</l>
+               </lg>
+               <lg>
+                  <l>They found the Babe, the Infant-God,</l>
+                  <l>But in a low Degree:</l>
+                  <l>His God-like Face was full of Grace</l>
+                  <l>To Man in Miſery.</l>
+               </lg>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="22" facs="tcp:109813:12"/>
+               <head>CHAP. XI.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>A Man of God gives the Church Informa<g ref="char:EOLhyphen"/>tion of the Circumciſion, and preſentation of Chriſt, with his Mother</hi> Mary<hi>'s Purifi<g ref="char:EOLhyphen"/>cation in the Temple. Alſo how a good old Man named</hi> Simeon, <hi>and a gracious Matron called</hi> Anna, <hi>believed that Child to be him of whom the Prophets ſpake, ſhould deſcend from</hi> Abraham <hi>and</hi> David<hi>'s Loins; when probably many great Perſons who walked in the Temple, looked upon this Infant-God only as the Son of a poor Car<g ref="char:EOLhyphen"/>penter.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>AFTER eight Days they Circumciſe</l>
+                  <l>Chriſt, which preſag'd much Good,</l>
+                  <l>That came to paſs upon the Croſs,</l>
+                  <l>Where he ſhed all his Blood.</l>
+                  <l>The pureſt Maid, Mother of God,</l>
+                  <l>Above all Women bleſt,</l>
+                  <l>Was preſented, and purified,</l>
+                  <l>In God's Temple of Reſt.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Simeon</hi> old, being foretold</l>
+                  <l>Of this great Potentate,</l>
+                  <l>With a ſweet look of Faith, him took,</l>
+                  <l>And bleſt the Lord of State.</l>
+                  <pb n="23" facs="tcp:109813:12"/>
+                  <l>And at his Breaſt, Jeſus did reſt,</l>
+                  <l>Here's Love in higheſt Paſſion.</l>
+                  <l>He dies in peace, and goes to reſt,</l>
+                  <l>On ſight of God's Salvation.</l>
+               </lg>
+               <lg>
+                  <l>Tho rich and great the Temple walk'd,</l>
+                  <l>When Chriſt was Circumcis'd,</l>
+                  <l>To be a King none did know him,</l>
+                  <l>But <hi>Ann</hi> and <hi>Simeon</hi> wiſe.</l>
+                  <l>None did him greet, who was ſo great,</l>
+                  <l>But on him meanly look'd;</l>
+                  <l>Some poor Off-ſpring, far from a King,</l>
+                  <l>A Carpenter's Relique.</l>
+               </lg>
+               <lg>
+                  <l>But holy <hi>Ann,</hi> when ſhe came in,</l>
+                  <l>And ſaw the Babe of Grace;</l>
+                  <l>She did proclaim to every one,</l>
+                  <l>He came of <hi>David</hi>'s Race.</l>
+                  <l>O <hi>Iſrael,</hi> you looked well,</l>
+                  <l>In your <hi>Jeruſalem:</hi>
+                  </l>
+                  <l>This pretty Babe, in your Arms laid,</l>
+                  <l>Works your Redemption.</l>
+               </lg>
+               <lg>
+                  <l>'Tis <hi>Shilo</hi> ſure, who will allure</l>
+                  <l>All Men by his free Grace.</l>
+                  <l>This is the Root, from <hi>David</hi> ſhot,</l>
+                  <l>He hath a God-like Face.</l>
+                  <l>The Sage and Wiſe then heard the Noiſe,</l>
+                  <l>A Jewiſh King was born.</l>
+                  <l>They brought ſweet Scent from <hi>Orient,</hi>
+                  </l>
+                  <l>Gold, Frankincenſe, and Balm.</l>
+               </lg>
+               <lg>
+                  <pb n="24" facs="tcp:109813:13"/>
+                  <l>
+                     <hi>Herod</hi> the Great, now full of Heat,</l>
+                  <l>The bleſt <hi>Meſſiah</hi>'s Foe:</l>
+                  <l>He calls the Scribes, of ſeveral Tribes,</l>
+                  <l>This Monarch down to throw.</l>
+                  <l>The Wiſe and Sage, he them did charge,</l>
+                  <l>If they did find the King,</l>
+                  <l>To ſignify it by and by,</l>
+                  <l>That he might worſhip him.</l>
+               </lg>
+               <lg>
+                  <l>But his vile Mind had then deſign'd</l>
+                  <l>A Fact moſt Tragical.</l>
+                  <l>O Hypocrite, God will thee ſmite,</l>
+                  <l>Thou Son of <hi>Belial.</hi>
+                  </l>
+                  <l>But thoſe wiſe Men, they worſhip him,</l>
+                  <l>And <hi>Herod</hi>'s Laws deſpiſe:</l>
+                  <l>For by a Dream, and Star they came</l>
+                  <l>Unto the only Wiſe.</l>
+               </lg>
+               <lg>
+                  <l>In <hi>Bethlehem,</hi> the Babes all then,</l>
+                  <l>From two Years old and up,</l>
+                  <l>Were Martyred all, that Chriſt might fall;</l>
+                  <l>This was a bitter Cup.</l>
+                  <l>Now Lamentation fills the Nation,</l>
+                  <l>For this inhumame Act:</l>
+                  <l>All Parents cry, and like to die,</l>
+                  <l>Becauſe their Babes are not.</l>
+               </lg>
+               <lg>
+                  <l>The Governour began to fear,</l>
+                  <l>That <hi>Ceſar</hi>'s Time was ſhort;</l>
+                  <l>And <hi>Mary</hi>'s Son would ſhortly reign,</l>
+                  <l>Their Government ſubvert.</l>
+               </lg>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="25" facs="tcp:109813:13"/>
+               <head>CHAP. XII.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>A Church is diſpatcht from the Celeſtial</hi> Ca<g ref="char:EOLhyphen"/>naan, <hi>to inform</hi> Joſeph <hi>and</hi> Mary <hi>in a Dream of their going to</hi> Egypt <hi>to avoid the Malice of</hi> Herod, <hi>who ſought the Death of the young Child; and upon</hi> He<g ref="char:EOLhyphen"/>rod<hi>'s Death, ſignifies, God would have them return again to their own Land.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>NOW on a Time an Angel came,</l>
+                  <l>Who <hi>Mary</hi> and <hi>Joſeph</hi> tell,</l>
+                  <l>Their Feet muſt ſtand on <hi>Egypt</hi> Land,</l>
+                  <l>Until that <hi>Herod</hi> fell,</l>
+                  <l>Who quickly dies: ſo th' Angel flies</l>
+                  <l>With all celerity</l>
+                  <l>To <hi>Egypt</hi> Land, and gives Command</l>
+                  <l>That <hi>Joſeph</hi> go his way:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or they are dead, all gone and fled,</l>
+                  <l>Which ſought the young Child's Life;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd by a Dream informed them,</l>
+                  <l>From the true God of Light.</l>
+               </lg>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="26" facs="tcp:109813:14"/>
+               <head>CHAP. XIII.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>A Meſſenger of the King of Kings, gives In<g ref="char:EOLhyphen"/>formation how this young King of</hi> Naza<g ref="char:EOLhyphen"/>reth <hi>diſputed with, and confuted the Doctors of the Law at</hi> 12 <hi>Years old. Of his entring upon his Prophetical Office. He ſends</hi> John Baptiſt <hi>as his Harbinger, authorizeth him to Baptize; and about thirty Years of Age was baptized by him himſelf, to ful<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> all Righteouſneſs; the Ordinance confirmed by the whole Trinity, Father, Son, and Holy Ghoſt.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>WHEN <hi>Mary</hi>'s Son twelve Years had run</l>
+                  <l>The Doctors of the Law</l>
+                  <l>He did diſpute, and them confute,</l>
+                  <l>And made them ſtand in awe.</l>
+                  <l>And now, in fine, ſweet Jeſus time</l>
+                  <l>Of working doth commence;</l>
+                  <l>A Harbinger for to prepare</l>
+                  <l>His way he ſendeth thence.</l>
+               </lg>
+               <lg>
+                  <l>His Miſſion is for to baptize,</l>
+                  <l>
+                     <hi>John Baptiſt</hi> 'tis I mean;</l>
+                  <l>He them immerſt who Sins confeſt,</l>
+                  <l>And true Repentance gain.</l>
+                  <pb n="27" facs="tcp:109813:14"/>
+                  <l>For to fulfil the Royal Will,</l>
+                  <l>Chriſt came to Prophet <hi>John</hi>
+                  </l>
+                  <l>To be baptiz'd in any wiſe,</l>
+                  <l>When thirty Years had run.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>John</hi> him took to <hi>Jordan</hi> Brook,</l>
+                  <l>And there did him immerſe;</l>
+                  <l>He did him dip, becauſe moſt meet</l>
+                  <l>To fulfil Righteouſneſs.</l>
+                  <l>This was not done to waſh off Sin,</l>
+                  <l>Becauſe <hi>Meſſiah</hi>'s pure:</l>
+                  <l>To Man he's ſent a Precedent,</l>
+                  <l>Let it all Men allure.</l>
+               </lg>
+               <lg>
+                  <l>The glorious Trine did all combine</l>
+                  <l>To witneſs to this thing.</l>
+                  <l>The Father, Son, and Spirit, as one,</l>
+                  <l>Did honour his Baptiſm.</l>
+               </lg>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>One of Chriſt's Learned Diſciples informs the Church, that after Jeſus was baptized, he is led into the Wilderneſs, where the Devil appeared unto him, probably like ſome Antient Man in poor Habit. The</hi> Meſſiah <hi>diſcovered he knew him, tho under a diſguiſe, to be the Head of the Apoſtate
+<pb n="28" facs="tcp:109813:15"/>Angels. Chriſt not anſwering his End in making Bread of Stones, is hurried by Sa<g ref="char:EOLhyphen"/>tan out of the Wilderneſs through the Air, who ſets him upon a Pinacle of the Temple in</hi> Jeruſalem, <hi>and from thence carries him to a very high Mountain, where he tempts his Lord to worſhip him.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>THE Spirit of Bliſs i'th' Wilderneſs</l>
+                  <l>And Deſert Chriſt doth lead,</l>
+                  <l>Among wild Beaſts, where are no Feaſts;</l>
+                  <l>Full forty Days no Bread.</l>
+                  <l>To God's Son dear there did appear,</l>
+                  <l>In this vaſt Wilderneſs,</l>
+                  <l>A gray old Man, with Clothing mean,</l>
+                  <l>As if ſome Lamb did miſs.</l>
+               </lg>
+               <lg>
+                  <l>To Chriſt he ſpake, Sir, What ſad Fate</l>
+                  <l>Hath brought you to this Place?</l>
+                  <l>All that come here, do die for Fear</l>
+                  <l>Or Want in a ſhort ſpace.</l>
+                  <l>I ſpeak the more upon this ſcore,</l>
+                  <l>Thou ſeem'ſt to be the Man;</l>
+                  <l>That Man moſt wiſe, who was baptiz'd</l>
+                  <l>By new baptizing <hi>John.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And that good Man, baptizing <hi>John,</hi>
+                  </l>
+                  <l>Call'd thee the <hi>Son of God:</hi>
+                  </l>
+                  <l>Which if thou be, come let me ſee,</l>
+                  <l>And make of Stones ſome Bread.</l>
+                  <pb n="29" facs="tcp:109813:15"/>
+                  <l>Then ſpake the King unto the Swain,</l>
+                  <l>Do'ſt think I know thee not?</l>
+                  <l>Thou art that Head didſt thouſands lead,</l>
+                  <l>When firſt thou didſt revolt.</l>
+               </lg>
+               <lg>
+                  <l>Then the arch Fiend, who cannot mend,</l>
+                  <l>Confeſt he was that Spirit,</l>
+                  <l>Under ſad Fate, unfortunate,</l>
+                  <l>Eternal Wrath t'inherit.</l>
+                  <l>Then on a trice he hurries Chriſt</l>
+                  <l>Out of the Wilderneſs,</l>
+                  <l>All through the Air, God's Hemiſphere,</l>
+                  <l>To put him in diſtreſs.<note place="margin">Mr. <hi>Milton.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Pinacle of the Temple</l>
+                  <l>He ſate his Judg upon,</l>
+                  <l>The Temple in <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>And ſaid, <hi>Come caſt thee down.</hi>
+                  </l>
+                  <l>Thou ſhalt not fall, the Angels all</l>
+                  <l>Proceſſion forth will make,</l>
+                  <l>From Heaven high, the Air and Sky,</l>
+                  <l>Death to anticipate.</l>
+               </lg>
+               <lg>
+                  <l>Thus <hi>Beelzebub,</hi> Prince of the Club,</l>
+                  <l>King of the damned Crew,</l>
+                  <l>Does tempt God's Son to worſhip him,</l>
+                  <l>As if it were his due.</l>
+                  <l>Proud <hi>Lucifer,</hi> he did allure</l>
+                  <l>His God to worſhip him;</l>
+                  <pb n="30" facs="tcp:109813:16"/>
+                  <l>Theſe Kingdoms fine ſhall all be thine,</l>
+                  <l>Bow now before my Throne.</l>
+               </lg>
+               <lg>
+                  <l>This was his Scope, and his great hope,</l>
+                  <l>Man's Saviour to deſtroy;</l>
+                  <l>For if the King he made to ſin,</l>
+                  <l>No Saviour could he be.</l>
+                  <l>Satan be gone, <hi>Apollyon,</hi>
+                  </l>
+                  <l>Worſhip the Lord thy God,</l>
+                  <l>And do not tempt him God hath ſent</l>
+                  <l>To bruiſe thy ſubtil Head.</l>
+               </lg>
+               <lg>
+                  <l>The Lord of Bliſs was tempted thus,</l>
+                  <l>That ſimpathize might he,</l>
+                  <l>And ſuccour thoſe againſt their Foes,</l>
+                  <l>Who are in miſery.</l>
+                  <l>Full forty Days he faſts, in praiſe</l>
+                  <l>Of Power Infinite,</l>
+                  <l>That from our Head we might have Bread</l>
+                  <l>Of Life, of Strength, of Might.</l>
+               </lg>
+               <lg>
+                  <l>If he God's Son thus ſet upon,</l>
+                  <l>To bow and worſhip him,</l>
+                  <l>Then wonder not at Satan's Plot,</l>
+                  <l>That tempts Man to the ſame.</l>
+                  <l>He tempted Man for to liken</l>
+                  <l>His God to Creatures vile;</l>
+                  <l>Made very fine in glorious Shine;</l>
+                  <l>And thus did him defile.</l>
+               </lg>
+               <lg>
+                  <pb n="31" facs="tcp:109813:16"/>
+                  <l>A Creature cold they 'dorn with Gold,</l>
+                  <l>Who pompous Worſhip love.</l>
+                  <l>Religion gay, tempts Men to pray</l>
+                  <l>To Devils as God above.</l>
+                  <l>Full well they'r known to Heathen Men,</l>
+                  <l>By various Names they gave,</l>
+                  <l>
+                     <hi>Moloc, Chemos,</hi> and <hi>Aſhtaroth,</hi>
+                  </l>
+                  <l>
+                     <hi>Adonis, Thammus</hi> brave.</l>
+               </lg>
+               <lg>
+                  <l>He ſets his Seat by God's moſt great,</l>
+                  <l>Satan's Altar by <hi>Jah</hi>'s;</l>
+                  <l>That Men may moan at his black Throne,</l>
+                  <l>And then at them he laughs.</l>
+               </lg>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>An Elder and Witneſs of Chriſt, informs the Church of the</hi> Meſſiah <hi>entring upon his Prophetical Office, but is oppoſed by Men of the ſame Spirit which oppoſed St.</hi> Paul; <hi>ſuch as</hi> Barjeſus, <hi>and</hi> Elimas <hi>the Sorcerer, who irrationally aſſerted that he wrought Miracles by the Power of the Prince of De<g ref="char:EOLhyphen"/>vils,</hi> Lucifer: <hi>but by his Divine Reply he put them all to ſilence.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>CHRIST rich in Grace began to preach,</l>
+                  <l>And Man illuminate;</l>
+                  <pb n="32" facs="tcp:109813:17"/>
+                  <l>In <hi>Napthalim</hi> and <hi>Zebulun,</hi>
+                  </l>
+                  <l>Commands them to repent:</l>
+                  <l>He makes new Hearts, and Men tranſlates,</l>
+                  <l>From Darkneſs into Light:</l>
+                  <l>So that his Fame, and fragrant Name,</l>
+                  <l>Were ſpread both Day and Night.</l>
+               </lg>
+               <lg>
+                  <l>But Envy roſe, among the Jews,</l>
+                  <l>Againſt the Prince of Light;</l>
+                  <l>They flout and jeer, they domineer</l>
+                  <l>Over his Sovereign Right.</l>
+                  <l>And many ſaid, he friendſhip had</l>
+                  <l>With <hi>Beelzebub</hi> the Great;</l>
+                  <l>And in much ſpite call'd <hi>Nazarite,</hi>
+                  </l>
+                  <l>The Carpenter's Relique.</l>
+               </lg>
+               <lg>
+                  <l>That Pow'r caſt out the Legions ſtout,</l>
+                  <l>They ſay 'tis Satan's all;</l>
+                  <l>And thus in ſpite, they 'ppoſe the Light</l>
+                  <l>Of Spirit, Word, and Soul.</l>
+                  <l>A Kingdom, ſaid our Lord and Head,</l>
+                  <l>Divided cannot ſtand.</l>
+                  <l>Can Satan caſt out Satan? judg:</l>
+                  <l>Come anſwer my Demand.</l>
+               </lg>
+               <lg>
+                  <l>From ſinful Luſt, the Holy Ghoſt</l>
+                  <l>Againſt it now they ſin;</l>
+                  <l>Which to remit here is not meet,</l>
+                  <l>Nor in the World to come.</l>
+                  <pb n="33" facs="tcp:109813:17"/>
+                  <l>If that Men ſin againſt the Son,</l>
+                  <l>And Father of all Light,</l>
+                  <l>He may forgive; but not who live</l>
+                  <l>The Spirit to deſpite.</l>
+               </lg>
+               <lg>
+                  <l>Who underſtand the Lord's good Mind,</l>
+                  <l>And yet in Malice call</l>
+                  <l>The Holy Ghoſt, and Blood of Chriſt,</l>
+                  <l>The moſt unjuſt of all:</l>
+                  <l>Theſe are the Men, who greatly ſin</l>
+                  <l>Againſt the laſt Relief.</l>
+                  <l>They can't repent, whoſe Hearts are bent,</l>
+                  <l>To Envy and Miſchief.</l>
+               </lg>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>A Man of God enters with an Antient Re<g ref="char:EOLhyphen"/>cord, called the</hi> Goſpel, <hi>which gives a Re<g ref="char:EOLhyphen"/>lation of Chriſt's ſudden departure from Earth to Heaven. Alſo of his bloody Sweat in</hi> Gethſemain; <hi>and of his drink<g ref="char:EOLhyphen"/>ing a horrible Cup of Death, in Obedience to his Father, and for the Good of Man. Moreover, how one of his own Family be<g ref="char:EOLhyphen"/>trayed him into their hands, who belonged to the black Prince of the damned Crew, and came with Swords and Staves to ap<g ref="char:EOLhyphen"/>prehend Chriſt, whom they bound with Cords,
+<pb n="34" facs="tcp:109813:18"/>and carry him to the Judg as ſome grand Malefactor.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>THE time draws on, Chriſt muſt be gone</l>
+                  <l>From Earth to Heaven high.</l>
+                  <l>A Lamb's prepar'd, we might regard</l>
+                  <l>That it did typify.</l>
+                  <l>Pure <hi>Shilo</hi>'s Fate did intimate,</l>
+                  <l>That Lamb for us muſt die;</l>
+                  <l>Who had no Spot, yet takes his Lot</l>
+                  <l>To bleed at <hi>Calvary.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Paſchal Lamb's Supper be'ng done,</l>
+                  <l>He bleſſed Bread did break;</l>
+                  <l>Leſt we forget Love Infinite,</l>
+                  <l>He gave Command to eat.</l>
+                  <l>And after ſupt, he took the Cup,</l>
+                  <l>Which alſo ſignified,</l>
+                  <l>Blood muſt be ſhed, for there is need</l>
+                  <l>Man's Soul be purified.</l>
+               </lg>
+               <lg>
+                  <l>And gave Command, that Act ſhould ſtand</l>
+                  <l>Until he come again,</l>
+                  <l>For every Church to practiſe much,</l>
+                  <l>To ſhew his Death and Pain.</l>
+                  <l>Then after Supper he did utter</l>
+                  <l>A Sign of humble Love,</l>
+                  <l>In waſhing Feet: Come it's moſt meet</l>
+                  <l>We follow him above.</l>
+               </lg>
+               <lg>
+                  <pb n="35" facs="tcp:109813:18"/>
+                  <l>They ſweetly ſing a bleſſed Hymn,</l>
+                  <l>Before he went to die;</l>
+                  <l>With Heart and Tongue they ſweetly ſung</l>
+                  <l>The Praiſe of God moſt high.</l>
+                  <l>The Lord goes out to <hi>Olive</hi> Mount,</l>
+                  <l>And <hi>Gethſemain</hi> alſo;</l>
+                  <l>Saith he, my Soul is ſorrowful,</l>
+                  <l>My Griefs no Man doth know.</l>
+               </lg>
+               <lg>
+                  <l>My People wait, I'll invocate</l>
+                  <l>My Father Lord of all,</l>
+                  <l>If I this Cup of Death muſt ſup,</l>
+                  <l>Or paſs this Draught of Gall.</l>
+                  <l>But, Lord, thy Will, not mine fulfil,</l>
+                  <l>I came no leſs to do:</l>
+                  <l>My bloody Sweat, and Sorrow great,</l>
+                  <l>Gives Peace to Greek and Jew.</l>
+               </lg>
+               <lg>
+                  <l>When he came back, all were aſleep;</l>
+                  <l>What can't you watch one Hour?</l>
+                  <l>Then ſaid the Lord, with one accord,</l>
+                  <l>Watch, pray with all your Power:</l>
+                  <l>Yea every one, no Temptat'on</l>
+                  <l>For you may be too high.</l>
+                  <l>The Fleſh is weak, Satan's a Cheat,</l>
+                  <l>Your Trial's very nigh.</l>
+               </lg>
+               <lg>
+                  <l>Then uſhers in the moſt Obſcene</l>
+                  <l>Upon the Lord of Bliſs;</l>
+                  <l>
+                     <hi>Judas</hi> that Cheat, betrays in heat</l>
+                  <l>His Maſter with a Kiſs.</l>
+                  <pb n="36" facs="tcp:109813:19"/>
+                  <l>With Staves and Sword they take the Lord,</l>
+                  <l>As if a <hi>Barrabas:</hi>
+                  </l>
+                  <l>A Guard moſt ſtrong they ſet upon</l>
+                  <l>The Innocent, alas!</l>
+               </lg>
+               <lg>
+                  <l>Jeſus did call, Whom ſeek you all?</l>
+                  <l>The Man of <hi>Nazareth?</hi>
+                  </l>
+                  <l>'Tis I am he, let theſe go free,</l>
+                  <l>Put none of them to death.</l>
+                  <l>By Power Divine ſome were ſtruck down,</l>
+                  <l>When they him apprehend:</l>
+                  <l>'Twas Mercy all they did not fall,</l>
+                  <l>And into Hell deſcend.</l>
+               </lg>
+               <lg>
+                  <l>Some Sages think, they did not ſhrink</l>
+                  <l>His Skin to penetrate;</l>
+                  <l>When with a Cord they tie the Lord,</l>
+                  <l>His potent Arms about.</l>
+                  <l>
+                     <hi>Peter</hi> by Sword, as well as Word,</l>
+                  <l>For Chriſt apologiz'd:</l>
+                  <l>When <hi>Malchus</hi> Ear he cuts, then fear</l>
+                  <l>Did all his Guard ſurprize.</l>
+               </lg>
+               <lg>
+                  <l>Then Chriſt the Word, would have the Sword</l>
+                  <l>Put up; and <hi>Malchus</hi> nigh,</l>
+                  <l>To heal his Wound, moſt ſafe and ſound,</l>
+                  <l>Tho his grand Enemy.</l>
+                  <l>Now to <hi>Annas</hi> they make him paſs,</l>
+                  <l>And hurry him away;</l>
+                  <pb n="37" facs="tcp:109813:19"/>
+                  <l>And out of hate interrogate</l>
+                  <l>The Lord about his way.</l>
+               </lg>
+               <lg>
+                  <l>The Lord ſaid then, my Doctrin's known,</l>
+                  <l>'Tis not obſcure and hid;</l>
+                  <l>The Temple nigh, where I did pray,</l>
+                  <l>And preach, it open ſtood.</l>
+                  <l>An Enemy, a ſtander-by,</l>
+                  <l>Said, Durſt thou anſwer ſo?</l>
+                  <l>For thy falſe ways apologize,</l>
+                  <l>The Judg doſt thou not know?</l>
+               </lg>
+               <lg>
+                  <l>This King of Grace they ſmote his Face,</l>
+                  <l>With ſordid Heart and Hand:</l>
+                  <l>But this good Man was like a Lamb,</l>
+                  <l>Tho all againſt him ſtand.</l>
+               </lg>
+            </div>
+            <div n="17" type="chapter">
+               <head>CHAP. XVII.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>One of the King of Kings Meſſengers gives an impartial Relation of the Carriage of the</hi> Meſſiah <hi>before his Judges. How he was adjur'd to confeſs he was a King. Se<g ref="char:EOLhyphen"/>veral falſe Witneſſes ſwear point blank a<g ref="char:EOLhyphen"/>gainſt him; and he is ſentenced to Death as guilty of Blaſphemy, and one that ſought the Deſtruction of the Government, and de<g ref="char:EOLhyphen"/>throning</hi> Ceſar; <hi>and that by a new Doctrine
+<pb n="38" facs="tcp:109813:20"/>their old Religion was undermined. But before they led him to Execution, they whipt him till his ſacred Blood ran down his Body.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>FROM <hi>Annas</hi> Chriſt to <hi>Caiaphas</hi> Prieſt,</l>
+                  <l>And Council they him lead;</l>
+                  <l>An Officer calls one to ſwear,</l>
+                  <l>Tho then there was need:</l>
+                  <l>Yet up ſtarts one againſt the King,</l>
+                  <l>And ſwears that he ſhould ſay,</l>
+                  <l>He could pull down this Temple fine,</l>
+                  <l>And perfect the third Day.</l>
+               </lg>
+               <lg>
+                  <l>This Lying was for to diſpraiſe</l>
+                  <l>The Lord of Dignity;</l>
+                  <l>Who did not mean the Temple-Stone,</l>
+                  <l>But his own dead Body.</l>
+                  <l>His infinite Power could ſmite</l>
+                  <l>Down all the Gates of Hell,</l>
+                  <l>If they had been Adamantine,</l>
+                  <l>His Strength doth ſo excel.</l>
+               </lg>
+               <lg>
+                  <l>Jeſus ſtood mute, did not diſpute,</l>
+                  <l>When they did him accuſe;</l>
+                  <l>The Brats of Hell in that Council,</l>
+                  <l>Did greatly him abuſe.</l>
+                  <l>We thee abjure, if thou be pure,</l>
+                  <l>Make no Equivocation.</l>
+                  <l>Art thou a King, and without Sin?</l>
+                  <l>Come, make a Declaration.</l>
+               </lg>
+               <lg>
+                  <pb n="39" facs="tcp:109813:20"/>
+                  <l>I do not lie, no verily,</l>
+                  <l>You propheſied right;</l>
+                  <l>I am your King, and without Sin,</l>
+                  <l>And have Eternal Might.</l>
+                  <l>When you ſhall ſee my Majeſty,</l>
+                  <l>Sit at the Lord's right Hand,</l>
+                  <l>You'l mourn full ſore, and me implore,</l>
+                  <l>When I reign in the Land.</l>
+               </lg>
+               <lg>
+                  <l>Upon the ſame a Voice forth came,</l>
+                  <l>Says Blaſphemy he ſpake,</l>
+                  <l>Him crucify, for he doth lie,</l>
+                  <l>Lead him without the Gate.</l>
+                  <l>Thoſe Vipers ſpit upon his Lip,</l>
+                  <l>As Men with Miſchief rife:</l>
+                  <l>They ſcoff and jeer, and without fear,</l>
+                  <l>Do ſtrike the Lord of Life.</l>
+               </lg>
+               <lg>
+                  <l>Come propheſy, thou Prophet high,</l>
+                  <l>Who ſmote thee on the Cheek:</l>
+                  <l>Canſt thou deſcry Phyſiognomy,</l>
+                  <l>Thou wicked Heretick?</l>
+                  <l>To this we'l add, he was made ſad,</l>
+                  <l>By <hi>Peter</hi>'s flat denial;</l>
+                  <l>Who then and there did curſe and ſwear,</l>
+                  <l>When Chriſt was near his Trial.</l>
+               </lg>
+               <lg>
+                  <l>But one ſweet Look from Chriſt ſo took,</l>
+                  <l>That <hi>Peter</hi>'s Heart did break,</l>
+                  <l>And bitterly then he did cry,</l>
+                  <l>To ſee his Faith ſo weak.</l>
+                  <pb n="40" facs="tcp:109813:21"/>
+                  <l>They with him trudg to <hi>Pilate</hi> Judg,</l>
+                  <l>No Accuſations want;</l>
+                  <l>They with their Lies and Calumnies,</l>
+                  <l>Over the Lord do vaunt.</l>
+               </lg>
+               <lg>
+                  <l>Thou Blaſphemer and Conjurer,</l>
+                  <l>Thou wicked Heretick;</l>
+                  <l>
+                     <hi>Ceſar</hi> can't rule, thou call'ſt him Fool,</l>
+                  <l>Our King doſt contradict.</l>
+                  <l>Then <hi>Pilate</hi> ſaith, Who takes an Oath,</l>
+                  <l>Rebellion he did make?</l>
+                  <l>Who now can tell he's culpable</l>
+                  <l>Of ought againſt the State?</l>
+               </lg>
+               <lg>
+                  <l>I cannot ſee Enormity</l>
+                  <l>In this Man doth appear;</l>
+                  <l>Prepoſterous it is for us</l>
+                  <l>To ſentence one that's clear.</l>
+                  <l>If you'l releaſe one at the Feaſt,</l>
+                  <l>The Feaſt of Paſchal Lamb;</l>
+                  <l>Determine ye who it ſhall be,</l>
+                  <l>The Chriſt, or ſinful Man.</l>
+               </lg>
+               <lg>
+                  <l>'Tis <hi>Barrabbas</hi> we will releaſe,</l>
+                  <l>The other crucify;</l>
+                  <l>Let all his Blood be on our Head,</l>
+                  <l>And on our Children lie.</l>
+                  <l>Some did proclaim, they muſt arraign</l>
+                  <l>The Lord at <hi>Herod</hi>'s Bar:</l>
+                  <l>The Preſident was glad, and ſent</l>
+                  <l>The <hi>Galilean</hi> there.</l>
+               </lg>
+               <lg>
+                  <pb n="41" facs="tcp:109813:21"/>
+                  <l>Now tho of late <hi>Herod</hi> the Great,</l>
+                  <l>And <hi>Pilate</hi> were at ſtrife:</l>
+                  <l>Yet when the Heir comes to their Bar,</l>
+                  <l>They 'gree to take his Life.</l>
+                  <l>
+                     <hi>Herod</hi> the Great ſaid, Operate</l>
+                  <l>Some Wonders in my ſight:</l>
+                  <l>My Humour pleaſe, or elſe chaſtis'd</l>
+                  <l>Thou ſhalt be e're 'tis Night.</l>
+               </lg>
+               <lg>
+                  <l>But this ſage King, the moſt Serene,</l>
+                  <l>True God, and only Wiſe,</l>
+                  <l>Humours him not, in this his Plot,</l>
+                  <l>Tho Rage againſt him riſe.</l>
+                  <l>They him transfer to <hi>Pilate</hi>'s Bar,</l>
+                  <l>Dreſt in an Idiot's Coat;</l>
+                  <l>They him degrade, as Fools are made,</l>
+                  <l>And at the Lord do flout.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Pilate</hi> ſaith, Who takes an Oath?</l>
+                  <l>Let Evidence appear,</l>
+                  <l>Why he muſt die at <hi>Calvary,</hi>
+                  </l>
+                  <l>As if ſome Premunire.</l>
+                  <l>We'l him chaſtiſe before your Eyes,</l>
+                  <l>And ſo let him depart.</l>
+                  <l>No, they reply, him crucify,</l>
+                  <l>We beg with all our Heart.</l>
+               </lg>
+               <lg>
+                  <l>We'l no King have, but <hi>Ceſar</hi> brave,</l>
+                  <l>He is Legitimate:</l>
+                  <l>Down with this thing, this little King,</l>
+                  <l>
+                     <hi>Ceſar</hi>'s the Potentate.</l>
+                  <pb n="42" facs="tcp:109813:22"/>
+                  <l>Then they him ſcourge, which made a purge,</l>
+                  <l>Our Souls to clarify:</l>
+                  <l>His ſacred Back no ſtripes did lack,</l>
+                  <l>Before he went to die.</l>
+                  <l>Some think with Rods, others with Cords</l>
+                  <l>Or Wier, he was whipt,</l>
+                  <l>And tied faſt unto a Poſt,</l>
+                  <l>When he was naked ſtript.</l>
+               </lg>
+               <lg>
+                  <l>In Rancor great his Body's beat,</l>
+                  <l>O Adamantine Heart!</l>
+                  <l>They made his Blood run like a Flood,</l>
+                  <l>From Head and every part.</l>
+                  <l>Behold the Man, ſaid <hi>Pilate</hi> then,</l>
+                  <l>In him no Fault I find:</l>
+                  <l>Away with him, ſaid the Obſcene,</l>
+                  <l>To Death he is deſign'd.</l>
+               </lg>
+               <lg>
+                  <l>The Preſident for Water ſent,</l>
+                  <l>To purify his Hands;</l>
+                  <l>See I am clear from his Blood pure,</l>
+                  <l>Upon him lay no Bands.</l>
+                  <l>
+                     <hi>Pilate</hi> may think, that Chriſt will wink</l>
+                  <l>At this prodigious Sin.</l>
+                  <l>O no, he ſate as Magiſtrate,</l>
+                  <l>And Sentence gave on him.</l>
+               </lg>
+               <lg>
+                  <l>Who wonder can, that <hi>Pilate</hi>'s Hand</l>
+                  <l>At laſt himſelf ſhould hang,</l>
+                  <l>When's Conſcience was ſo faithful as</l>
+                  <l>To tell him Chriſt was King?</l>
+               </lg>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="43" facs="tcp:109813:22"/>
+               <head>CHAP. XVIII.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>One of</hi> Meſſiah<hi>'s Learned Diſciples inter<g ref="char:EOLhyphen"/>poſeth with an aſtoniſhing Narrative a<g ref="char:EOLhyphen"/>bout his Lord's being led to execution: bound with Cords, and the heavy Croſs fixt on his Back, on which he was crucified, and a ſtrong Guard ſurrounded him all the way to</hi> Golgotha: <hi>And while the Croſs was fixing in the Earth, they unmantle and ſtrip him to his naked Body, which they lift up and nailed to the Croſs, one Foot on the top of the other, with Arms ſtretched out, being plac'd between two Thieves, a Crown of Thorns on his Head, and an Inſcription of Hebrew, Greek and Latin, as the Cuſtom of the Romans was to all they accounted Malefactors.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>THE moſt high Lord they bound with Cord,</l>
+                  <l>And lead to <hi>Calvary;</hi>
+                  </l>
+                  <l>Fixt on a Croſs moſt ponderous,</l>
+                  <l>On which he was to die.</l>
+                  <l>Upon his Back, like <hi>Iſaac,</hi>
+                  </l>
+                  <l>The bleſſed Type of Chriſt,</l>
+                  <l>This Croſs did lie moſt heavily,</l>
+                  <l>Tho he was meek and Juſt.</l>
+               </lg>
+               <lg>
+                  <pb n="44" facs="tcp:109813:23"/>
+                  <l>This Innocent, 'tis like did faint,</l>
+                  <l>And Humane Nature ſail,</l>
+                  <l>Being ſo ſore, with Stripes before,</l>
+                  <l>And had no time to heal.</l>
+                  <l>Another Man, a <hi>Syrenian,</hi>
+                  </l>
+                  <l>At that time coming by,</l>
+                  <l>Muſt bear the Croſs, moſt ponderous,</l>
+                  <l>On which Chriſt was to die.</l>
+               </lg>
+               <lg>
+                  <l>What Wit of Man can now define,</l>
+                  <l>His Sorrow, Grief, and Shame?</l>
+                  <l>Who can dilate, and explicate,</l>
+                  <l>His Miſery and Pain?</l>
+                  <l>At the ſame time the female Kind</l>
+                  <l>Compaſſion to him ſhew;</l>
+                  <l>To ſee him thruſt, by Men unjuſt,</l>
+                  <l>A baſe and fordid Crew.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Jeruſalem,</hi> the Lord ſaid then,</l>
+                  <l>Weep not for me from hence;</l>
+                  <l>
+                     <hi>Peccavi</hi> cry, your Sins are high,</l>
+                  <l>Your Pride and Ignorance;</l>
+                  <l>Condole, be ſad, you were ſo mad,</l>
+                  <l>As for to imprecate</l>
+                  <l>Innocent Blood upon your Head,</l>
+                  <l>Will make you deſolate.</l>
+               </lg>
+               <lg>
+                  <l>He <hi>Calv'ry</hi> ſaw, and <hi>Golgotha,</hi>
+                  </l>
+                  <l>The Croſſes ſituation;</l>
+                  <l>Then Solltude he underſtood</l>
+                  <l>But for a ſinful Nation.</l>
+                  <pb n="45" facs="tcp:109813:23"/>
+                  <l>Now being come, Chriſt ſtandeth bound,</l>
+                  <l>Until the Croſs be fixt;</l>
+                  <l>With a ſtrong Guard about the Lord,</l>
+                  <l>A bitter Cup they mixt.</l>
+               </lg>
+               <lg>
+                  <l>Now all the Crew, Roman and Jew,</l>
+                  <l>This bleſſed One do ſtrip;</l>
+                  <l>Unmantle bare, and pluck'd the Hair</l>
+                  <l>From off his tender Lip.</l>
+                  <l>He's naked ſtript, as well as whipt,</l>
+                  <l>And all his Body bare,</l>
+                  <l>That ours may be cover'd moſt free,</l>
+                  <l>With Righteouſneſs moſt fair.</l>
+               </lg>
+               <lg>
+                  <l>Now all in haſte they nail him faſt,</l>
+                  <l>And hang between two Thieves,</l>
+                  <l>The Scripture's Will for to fulfil,</l>
+                  <l>So Man from Hell he ſaves.</l>
+                  <l>The Nails were great, in Hands and Feet,</l>
+                  <l>That fixt him to the Tree.</l>
+                  <l>O who can tell what Chriſt did feel,</l>
+                  <l>And there ſuſtain'd for thee?</l>
+               </lg>
+               <lg>
+                  <l>His Hands and Feet they penetrate,</l>
+                  <l>And out the Blood did guſh;</l>
+                  <l>For they did tear him with a Spear,</l>
+                  <l>And crown'd with thorny Buſh.</l>
+                  <l>That Chriſt was King, the Inſcription,</l>
+                  <l>In Hebrew, Latin, Greek;</l>
+                  <l>Did ſignify to all ſtood by,</l>
+                  <l>For <hi>Pilate</hi> thought it meet.</l>
+               </lg>
+               <lg>
+                  <pb n="46" facs="tcp:109813:24"/>
+                  <l>Over his Head this Paper ſtood,</l>
+                  <l>That all might read the ſame:</l>
+                  <l>He was the King of Jewiſh Men,</l>
+                  <l>Tho they did him defame.</l>
+                  <l>Before he dies, he opes the Eyes</l>
+                  <l>Of a moſt wretched Sinner;</l>
+                  <l>Who own'd him King, believ'd in him,</l>
+                  <l>As the God-Man Redeemer.</l>
+               </lg>
+               <lg>
+                  <l>Remember, Lord, to me be good,</l>
+                  <l>When in thy Kingdom-State.</l>
+                  <l>By my free Grace to Paradiſe,</l>
+                  <l>This day I'll thee tranſlate.</l>
+                  <l>They him exhauſt, and now do boaſt,</l>
+                  <l>Our Grief he bore it all;</l>
+                  <l>The weight of Sin was laid on him,</l>
+                  <l>To ſave a precious Soul.</l>
+               </lg>
+               <lg>
+                  <l>When he would eaſe his tortured Feet,</l>
+                  <l>By hanging on his Hands;</l>
+                  <l>They muſt be in prodigious pain,</l>
+                  <l>This Reaſon underſtands.</l>
+                  <l>And when he eas'd his tortur'd Hands,</l>
+                  <l>By reſting on his Feet,</l>
+                  <l>His Body's weight, where e're it met,</l>
+                  <l>Muſt make the Patient ſick.</l>
+               </lg>
+               <lg>
+                  <l>God's holy Son, tho God and Man,</l>
+                  <l>Of Sorrow muſt be full:</l>
+                  <l>On him did lie much Miſery,</l>
+                  <l>God's Wrath did fill his Soul.</l>
+                  <pb n="47" facs="tcp:109813:24"/>
+                  <l>The Lord at laſt cries out, I thirſt,</l>
+                  <l>The Prophets to fulfil;</l>
+                  <l>A Vin'gar ſpunge they gave his Lungs,</l>
+                  <l>So he had not his Will.</l>
+               </lg>
+               <lg>
+                  <l>Water was ſcant, he muſt it want,</l>
+                  <l>We might have plenitude</l>
+                  <l>Of living Streams, come from his Reins:</l>
+                  <l>O Love not underſtood!</l>
+                  <l>Could <hi>Mary</hi> then of <hi>Magdalen,</hi>
+                  </l>
+                  <l>Have had her own deſire,</l>
+                  <l>Her Tears ſhould quench her Saviour's Thirſt,</l>
+                  <l>Whoſe Heart was on a fire.</l>
+               </lg>
+               <lg>
+                  <l>A Flame of Love to him above,</l>
+                  <l>To all Men did appear;</l>
+                  <l>Where ſhe did weep, and waſh his Feet,</l>
+                  <l>And wip'd them with her Hair.</l>
+                  <l>Now at this time the Souldiers game</l>
+                  <l>For Jeſus ſeamleſs Coat;</l>
+                  <l>For to fulfil the ſacred Will,</l>
+                  <l>That Will to conſummate.</l>
+               </lg>
+               <lg>
+                  <l>The direful Curſe was ponderous,</l>
+                  <l>The Malediction high;</l>
+                  <l>Which made him cry, <hi>Ely, Ely,</hi>
+                  </l>
+                  <l>
+                     <hi>Lama ſabachthany.</hi>
+                  </l>
+                  <l>I am content for to be empt</l>
+                  <l>Of all my Sacred Blood;</l>
+                  <l>So I my Flock inoculate</l>
+                  <l>By Faith into their Head.</l>
+               </lg>
+               <lg>
+                  <pb n="48" facs="tcp:109813:25"/>
+                  <l>The Guilt of Man I'll faſten on</l>
+                  <l>This curſed Croſs and Tree:</l>
+                  <l>Juſtice Divine ſhall have a Fine,</l>
+                  <l>To ſet the Guilty free.</l>
+                  <l>I'll bury all their Guilt and Thrall,</l>
+                  <l>Both in the Grave, and deep:</l>
+                  <l>Yea, all the high Iniquity</l>
+                  <l>Of my free choſen Sheep.</l>
+               </lg>
+               <lg>
+                  <l>Then ſome obſcene ſaid to the King,</l>
+                  <l>Phyſician ſave thy ſelf:</l>
+                  <l>If that thou be God's Son moſt free,</l>
+                  <l>Recover now thy Health.</l>
+                  <l>The Mother ſtood nigh by the Wood,</l>
+                  <l>I mean the wooden Croſs,</l>
+                  <l>On which did hang her precious Son,</l>
+                  <l>Till all his Blood was loſt.</l>
+               </lg>
+               <lg>
+                  <l>What Tears of Blood could ſhe have ſhed,</l>
+                  <l>His Sorrow to prevent:</l>
+                  <l>To ſee thoſe Hands, heal'd many Wounds,</l>
+                  <l>So pierced, torn and rent?</l>
+                  <l>His glorious Head ran purple Blood,</l>
+                  <l>His Feet and Side the ſame.</l>
+                  <l>But his Free Grace that him debas'd,</l>
+                  <l>Is his immortal Fame.</l>
+               </lg>
+               <lg>
+                  <l>Thoſe bloody Eyes they can't ſuffice,</l>
+                  <l>Thoſe Sluces are too ſmall,</l>
+                  <l>His Sorrow to give vent unto,</l>
+                  <l>Hence from his Pores Blood falls.</l>
+                  <pb n="49" facs="tcp:109813:25"/>
+                  <l>He ſaw a Scrowl, a diſmal one,</l>
+                  <l>Of Sins preſent and paſt,</l>
+                  <l>And Sins to come, he muſt atone,</l>
+                  <l>For all from firſt to laſt.<note place="margin">Mr. <hi>Norris.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>His Love moſt ſweet and bloody Sweat,</l>
+                  <l>Did wipe off all the Score.</l>
+                  <l>Some moments Pain makes him to reign,</l>
+                  <l>Eternal Ages ſure.</l>
+                  <l>And as he hung before the Sun,</l>
+                  <l>His Virgin-Mother ſaw</l>
+                  <l>His Gore-blood Eyes, and heard his Cries</l>
+                  <l>To God, <hi>Abba, Abba.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Into thy Hand my Spirit aſcend,</l>
+                  <l>My Work is finniſhed:</l>
+                  <l>All Debts are paid, Books cancelled,</l>
+                  <l>Juſtice is ſatisfied.</l>
+                  <l>Now Chriſt is dead, they brake no Leg,</l>
+                  <l>The Scripture may fulfil;</l>
+                  <l>Yet by their Hate hangs diſlocate,</l>
+                  <l>Unjoint from Head to Heel.</l>
+               </lg>
+               <lg>
+                  <l>Upon the ſame great Darkneſs came</l>
+                  <l>All o're the Hemiſphere.</l>
+                  <l>The Rocks did rent, the Graves were empt;</l>
+                  <l>Thus Wonders did appear.</l>
+                  <l>The Temple-Vail was rent in twain,</l>
+                  <l>Then ſoon they underſtood</l>
+                  <pb n="50" facs="tcp:109813:26"/>
+                  <l>He was God's Son, tho alſo Man,</l>
+                  <l>From thence infer was God.</l>
+               </lg>
+               <lg>
+                  <l>The Heathens all that Day condole,</l>
+                  <l>And eloquently ſaid,</l>
+                  <l>Surely the God of Nature's dead,</l>
+                  <l>Or final End hath made.</l>
+                  <l>O this great World to Duſt he'l hurl,</l>
+                  <l>For hanging on the Croſs</l>
+                  <l>The Quinteſſence of all Goodneſs;</l>
+                  <l>O Act prepoſterous.</l>
+               </lg>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>A Friend of the</hi> Meſſiah<hi>'s ſignifies what hap<g ref="char:EOLhyphen"/>pened after the Lord's Death. A Coun<g ref="char:EOLhyphen"/>ſellor at Law begs his Body, and inters it with ſweet Spices. The great Council gives order for a ſtrict Watch, a Seal and Stone to be ſet on the Sepulchre. Now</hi> Beelzebub <hi>triumphs to ſee Chriſt dead, and in ſome hopes conquered for ever. But the third Day he aroſe from the Grave, to the Confuſion of all the Devils: And after forty Days upon the Earth, aſcends to Heaven from Mount</hi> Olivet, <hi>in the view of his Apoſtles; but firſt gave them his Benediction, and on the Day of
+<pb n="51" facs="tcp:109813:26"/>Pentecoſt ſent down the Holy Ghoſt; and from the Power of this Spirit his Diſciples go on in the World conquering, by preaching Jeſus of</hi> Nazareth <hi>to be the Son of God.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>OF <hi>Pilate</hi> Head, <hi>Joſeph</hi> did beg</l>
+                  <l>The Body of the Juſt;</l>
+                  <l>And did inter the Lord with Myrrh,</l>
+                  <l>As ſaith the Holy Ghoſt.</l>
+                  <l>As Man at firſt did prove unjuſt,</l>
+                  <l>In <hi>Eden</hi> Paradiſe;</l>
+                  <l>The bleſſed King in a Garden,</l>
+                  <l>Acquits the Man on wiſe.</l>
+               </lg>
+               <lg>
+                  <l>The Watch was ſtrong, they ſat upon</l>
+                  <l>The Grave where Chriſt did lie,</l>
+                  <l>For to prevent the Lord's Intent</l>
+                  <l>Of riſing the third Day.</l>
+                  <l>The Sepulchre they made moſt ſure,</l>
+                  <l>With Watch, a Stone, and Seal,</l>
+                  <l>For to prevent the Lord's Intent,</l>
+                  <l>But they in all do fail.</l>
+               </lg>
+               <lg>
+                  <l>When Chriſt was dead, then <hi>Beelzebub</hi>
+                  </l>
+                  <l>Did triumph, and thus ſpeak,</l>
+                  <l>I conquer'd have unto the Grave,</l>
+                  <l>God's Chriſt of mighty State.</l>
+                  <l>'Tis I am King, and triumphing.</l>
+                  <l>Who will my Subjects be?</l>
+                  <pb n="52" facs="tcp:109813:27"/>
+                  <l>And Chriſt deny, whom I defy,</l>
+                  <l>He's overcome you ſee.</l>
+               </lg>
+               <lg>
+                  <l>Who would ſerve him, a conquer'd one?</l>
+                  <l>Obey me, 'tis no ſin:</l>
+                  <l>Caſt off his Name, 'tis horrid ſhame</l>
+                  <l>To own one dead your King.</l>
+                  <l>What Revel-rout in Hell throughout,</l>
+                  <l>When they thought all was won,</l>
+                  <l>And Chriſt laid low, ſee how they crow</l>
+                  <l>In hopes that all's their own.</l>
+               </lg>
+               <lg>
+                  <l>Now <hi>Lucifer</hi> aſcends his Chair,</l>
+                  <l>And mounts his gloomy Throne:</l>
+                  <l>The helliſh Guard flock round their Lord,</l>
+                  <l>And vaunt, he's King alone.</l>
+                  <l>Now the black King began to ſing,</l>
+                  <l>Altho in Flames array'd;</l>
+                  <l>And thus began the helliſh Song,</l>
+                  <l>When to his Peers he ſaid;</l>
+               </lg>
+               <lg>
+                  <l>Dominions, Thrones, Powers unknown,</l>
+                  <l>I claim all as my Right:<note place="margin">Mr. <hi>Weſley.</hi>
+                     </note>
+                  </l>
+                  <l>I've gain'd the Field, Jeſus did yield,</l>
+                  <l>And he is conquer'd quite.</l>
+                  <l>I do not fear him call'd the Heir,</l>
+                  <l>Immortal ſome him thought:</l>
+                  <l>But now he's dead, he's gone and fled,</l>
+                  <l>And ne'r to life be brought.</l>
+               </lg>
+               <lg>
+                  <pb n="53" facs="tcp:109813:27"/>
+                  <l>The Devils in pomp, and great triumph,</l>
+                  <l>Appear now Chriſt is dead:</l>
+                  <l>The Oracle's Head come fill with ſpeed,</l>
+                  <l>The World may be miſled.</l>
+                  <l>The Hebrew Child no Sword can weild,</l>
+                  <l>He'l conquer you no more:</l>
+                  <l>Let's march from Hell, in Heaven we'l tell</l>
+                  <l>Of our all-conqu'ring Power.</l>
+               </lg>
+               <lg>
+                  <l>And conquer there as well as here,</l>
+                  <l>Who can before us ſtand?</l>
+                  <l>Now God is dead I will be Head,</l>
+                  <l>In Heaven, Sea and Land.</l>
+                  <l>While Satan ſpake with lofty ſtate,</l>
+                  <l>In came the Glorious One,</l>
+                  <l>With all the Marks, victorious Acts</l>
+                  <l>Of a triumphing King.</l>
+               </lg>
+               <lg>
+                  <l>While <hi>Beelzebub</hi> with his black Club,</l>
+                  <l>Did vaunt, yea, ſcoff and boaſt;</l>
+                  <l>Came ſtarting in the powerful King,</l>
+                  <l>And Guards from God of Hoſts.</l>
+                  <l>This glorious Guard ſurround the Lord,</l>
+                  <l>Like warlike Angels ſtand,</l>
+                  <l>To ſmite to Hell great <hi>Belial,</hi>
+                  </l>
+                  <l>And all againſt him band.</l>
+               </lg>
+               <lg>
+                  <l>Who is this here doth domineer,</l>
+                  <l>And boaſt of Victory</l>
+                  <pb n="54" facs="tcp:109813:28"/>
+                  <l>Over God's Son, the holy One,</l>
+                  <l>Who lives altho did die?</l>
+                  <l>I have the Keys of Hell and Death,</l>
+                  <l>Who am the Firſt and Laſt:</l>
+                  <l>All Potentates, and powerful States,</l>
+                  <l>To me ſhall yield or taſte</l>
+               </lg>
+               <lg>
+                  <l>Unmixed Wrath, as my Word ſaith,</l>
+                  <l>Which they can never bear,</l>
+                  <l>Nor dwell in ever-burning Lakes,</l>
+                  <l>Or the devouring Fire.</l>
+                  <l>O how confus'd, and how amaz'd</l>
+                  <l>The Devils all do ſtand:</l>
+                  <l>Satan flies down his Iron Throne,</l>
+                  <l>To flee from Jeſus Hand.</l>
+               </lg>
+               <lg>
+                  <l>The Devils fled from Chriſt their Head,</l>
+                  <l>And from his terrible Wrath:</l>
+                  <l>But Chriſt purſues his ſcoffing Foes,</l>
+                  <l>Through their black horrid Path.</l>
+                  <l>The Devils knew, that Chriſt the true,</l>
+                  <l>Had broke their Gates and Walls;</l>
+                  <l>And conquer'd Death, and all the Earth,</l>
+                  <l>So into Hell he falls.</l>
+               </lg>
+               <lg>
+                  <l>And now the Word of God's made good,</l>
+                  <l>The Serpent's Head is bruis'd;</l>
+                  <l>Chriſt he hath trod upon his Head,</l>
+                  <l>Which makes him thus confus'd.</l>
+                  <pb n="55" facs="tcp:109813:28"/>
+                  <l>Then Satan ſpake with horrid hate,</l>
+                  <l>What tho I conquer'd am?</l>
+                  <l>Be juſt if ſent, and don't torment</l>
+                  <l>Your Foes before the time.</l>
+               </lg>
+               <lg>
+                  <l>And now in Chains he them confines</l>
+                  <l>Unto the Judgment-Day.</l>
+                  <l>All Powers muſt bow before his Brow</l>
+                  <l>Who doth the Scepter ſway.</l>
+                  <l>Chriſt he Death's Bands broke with his Hands,</l>
+                  <l>And in triumphing manner</l>
+                  <l>He did ariſe, tho Enemies</l>
+                  <l>Stood round with Guard and Banner.</l>
+               </lg>
+               <lg>
+                  <l>Yea, that ſtrong Guard upon the Lord,</l>
+                  <l>Did tremble like dead Men:</l>
+                  <l>The Earth did quake, their Hearts did ſhake</l>
+                  <l>To ſee him riſe again.</l>
+                  <l>And at the Grave, an Angel brave,</l>
+                  <l>That ſhined as the Sun,</l>
+                  <l>Did roll away the Stone that Day</l>
+                  <l>The Lord did riſe upon.</l>
+               </lg>
+               <lg>
+                  <l>And that day's Morn good Women mourn,</l>
+                  <l>About the Sepulchre;</l>
+                  <l>Jeſus you ſeek, pray do not weep,</l>
+                  <l>The Angel ſaid, Don't fear:</l>
+                  <l>Rather rejoice, lift up your Voice,</l>
+                  <l>Chriſt from the Grave is gone;</l>
+                  <pb n="56" facs="tcp:109813:29"/>
+                  <l>In <hi>Galilee</hi> you may him ſee,</l>
+                  <l>The Living he's among.</l>
+               </lg>
+               <lg>
+                  <l>The Lord did ſhew himſelf moſt true,</l>
+                  <l>After he did ariſe;</l>
+                  <l>The Signs were all infallible,</l>
+                  <l>He was in no diſguiſe.</l>
+                  <l>And for to put all out of doubt,</l>
+                  <l>No Spirit did appear;</l>
+                  <l>
+                     <hi>Come touch,</hi> ſaid he, <hi>and handle me,</hi>
+                  </l>
+                  <l>My Fleſh and Bones moſt pure.</l>
+               </lg>
+               <lg>
+                  <l>After he roſe, and vanquiſh'd Foes,</l>
+                  <l>An Apparition's made</l>
+                  <l>To <hi>Magdalen</hi> in a Garden,</l>
+                  <l>By Jeſus Chriſt the Lord.</l>
+                  <l>The Gard'ner then ſhe thought upon,</l>
+                  <l>Till that Chriſt <hi>Mary</hi> ſaid,</l>
+                  <l>O <hi>Rabboni!</hi> ſhe did reply,</l>
+                  <l>My King, my Lord, my Head.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Mary</hi> touch not thy Lord as yet,</l>
+                  <l>Till I to God aſcend:</l>
+                  <l>Then me embrace by Faith, which Grace</l>
+                  <l>Will all the Saints commend.</l>
+                  <l>But poor <hi>Thomas,</hi> his Faith's amiſs,</l>
+                  <l>He won't believe 'tis he,</l>
+                  <l>Unleſs the print, where the Nails went</l>
+                  <l>Into his Body, he ſee.</l>
+               </lg>
+               <lg>
+                  <pb n="57" facs="tcp:109813:29"/>
+                  <l>A juſt Reproof of, s Unbelief,</l>
+                  <l>The Lord gave when he ſaid,</l>
+                  <l>Moſt bleſs'd is him, who hath not ſeen,</l>
+                  <l>And yet believ'd his God.</l>
+                  <l>The Scripture ſaith, if we ha'n't Faith</l>
+                  <l>In the riſing again</l>
+                  <l>Of Chriſt our Head, we all are dead,</l>
+                  <l>And damned every one.</l>
+               </lg>
+               <lg>
+                  <l>Then Preaching's vain, and Faith's no Gain,</l>
+                  <l>If Chriſt be in the Grave;</l>
+                  <l>God's Juſtice Good not ſatisfied,</l>
+                  <l>So Pardon none can have.</l>
+                  <l>The Church did meet, and God did ſeek</l>
+                  <l>Upon the Week's firſt Day;</l>
+                  <l>Where Chriſt among them often came,</l>
+                  <l>To cheer them in his Way:</l>
+               </lg>
+               <lg>
+                  <l>And gave Commands, into the Hands</l>
+                  <l>Of his Apoſtles dear,</l>
+                  <l>How they ſhould act in every part,</l>
+                  <l>Till he again appear.</l>
+                  <l>E're Chriſt aſcends, he gave Commands,</l>
+                  <l>That at <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>At Wiſdom's Gate they may expect,</l>
+                  <l>The Spirit promis'd them.</l>
+               </lg>
+               <lg>
+                  <l>Now Chriſt aſcends before his Friends,</l>
+                  <l>From Earth to Heaven high;</l>
+                  <pb n="58" facs="tcp:109813:30"/>
+                  <l>From whence he'l come, e're it be long,</l>
+                  <l>To fetch his Bride away.</l>
+                  <l>Chriſt clears the Air, and Hemiſphere,</l>
+                  <l>Where damned Spirits dwell;</l>
+                  <l>He clears the Path for Saints on Earth,</l>
+                  <l>To Joy Celeſtial.</l>
+               </lg>
+               <lg>
+                  <l>Diſperſe you Orbs, you glittering Clouds,</l>
+                  <l>At diſtance roll away:</l>
+                  <l>His glorious Guard the Way prepar'd,</l>
+                  <l>On Chriſt's Aſcenſion-Day.</l>
+                  <l>The Angels high above the Sky,</l>
+                  <l>Spake unto them below;</l>
+                  <l>What happy King is this you bring?</l>
+                  <l>In triumph he doth go.</l>
+               </lg>
+               <lg>
+                  <l>Who is this King, this glorious One?</l>
+                  <l>And what may be his Name?</l>
+                  <l>The <hi>Lord of Hoſts,</hi> he's known by moſt,</l>
+                  <l>His Vict'ry gives him Fame.</l>
+                  <l>Lift up ye Gates, ye Doors of State,</l>
+                  <l>And entertain your King:</l>
+                  <l>Come ſtand wide ope in Heaven's Court,</l>
+                  <l>Ye Gates everlaſting.</l>
+               </lg>
+               <lg>
+                  <l>He comes who hath conquer'd the Grave,</l>
+                  <l>And drags the King of Pride,</l>
+                  <l>Faſtned unto his Chariot new,</l>
+                  <l>In which the Lord doth ride</l>
+                  <l>Triumphantly, to Bliſs on high;</l>
+                  <l>His Chariot moved faſt</l>
+                  <pb n="59" facs="tcp:109813:30"/>
+                  <l>To Heaven's Gate, where many wait,</l>
+                  <l>And thouſands cry, Haſte, haſte.</l>
+               </lg>
+               <lg>
+                  <l>This Prince of State, when Heaven's Gate</l>
+                  <l>He had arriv'd unto;</l>
+                  <l>O what a Shout is given out</l>
+                  <l>By Angels as his due!</l>
+                  <l>And with his Crown went in, ſat down</l>
+                  <l>Cloſe by his Father's Side;</l>
+                  <l>And will prepare a Palace there</l>
+                  <l>To entertain his Bride.</l>
+               </lg>
+               <lg>
+                  <l>He's now gone home to wear his Crown,</l>
+                  <l>For all his Work is done.</l>
+                  <l>God's ſatisfy'd, En'mies ſubdu'd,</l>
+                  <l>And now aſcends his Throne.</l>
+                  <l>Now Chriſt is gone, the Spirit doth come</l>
+                  <l>On the Rebellious.</l>
+                  <l>The Sinner's Head is captive led,</l>
+                  <l>And Gifts are given us.</l>
+               </lg>
+               <lg>
+                  <l>On Pentecoſt the Spirit did reſt,</l>
+                  <l>In cloven Tongues, upon</l>
+                  <l>The Meſſengers of Jeſus Chriſt,</l>
+                  <l>Becauſe he was gone home.</l>
+                  <l>He doth inſpire, baptize with Fire,</l>
+                  <l>Prophets, Apoſtles too:</l>
+                  <l>He'l Paſtors give, the Church may live</l>
+                  <l>A holy Life and true.</l>
+               </lg>
+               <lg>
+                  <pb n="60" facs="tcp:109813:31"/>
+                  <l>Poor Fiſhermen go conquering on</l>
+                  <l>The World in Jeſus Name.</l>
+                  <l>The Blind do ſee, the Dead rais'd be</l>
+                  <l>To Chriſt's eternal Fame.</l>
+                  <l>If Chriſt did ſhew his Godhead true,</l>
+                  <l>When in a ſwadling Clout,<note place="margin">Mr. <hi>Milton.</hi>
+                     </note>
+                  </l>
+                  <l>Controll'd the Crew of damned Hue,</l>
+                  <l>In all the World about;</l>
+               </lg>
+               <lg>
+                  <l>He will much more his Power declare,</l>
+                  <l>Aſcended now on high;</l>
+                  <l>Captivity he captive led</l>
+                  <l>In his triumphant Day.</l>
+                  <l>This Hebrew Child, tho meek and mild,</l>
+                  <l>Made Devils loudly roar,</l>
+                  <l>On Mountains ſteep, in Vallies deep,</l>
+                  <l>On all the Seas and Shore.</l>
+               </lg>
+               <lg>
+                  <l>All Oracles dumb, no hideous Hum,</l>
+                  <l>No mighty Trance or Spell:</l>
+                  <l>
+                     <hi>Apollo</hi>'s Shrines no more Divine's,</l>
+                  <l>Nor no Prophetick Cell.</l>
+                  <l>The <hi>Flamins</hi> quaint at Altars faint,</l>
+                  <l>In conſecrated Grove;</l>
+                  <l>Becauſe no Sound doth there rebound</l>
+                  <l>From their-ſweet Object <hi>Jove.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>All Temples dumb, <hi>Peor, Baalim,</hi>
+                  </l>
+                  <l>And mooned <hi>Aſhtaroth:</hi>
+                  </l>
+                  <l>No Tapers ſhine, none can divine;</l>
+                  <l>Hence <hi>Beelzebub</hi> is wroth.</l>
+                  <pb n="61" facs="tcp:109813:31"/>
+                  <l>Now <hi>Moloc</hi>'s fled, that Idol's dead,</l>
+                  <l>
+                     <hi>Iſis</hi> and <hi>Oſiris,</hi>
+                  </l>
+                  <l>From <hi>Judah</hi>'s Land, the Infant's hand</l>
+                  <l>Laid low the Heathen Prieſts.</l>
+               </lg>
+               <lg>
+                  <l>Each fetter'd Ghoſt ſlips to his Poſt,</l>
+                  <l>To the Infernal Jail;</l>
+                  <l>Who go in Troops, their Malice ſhoots</l>
+                  <l>Back to the God of all;</l>
+                  <l>Who comes, who comes, in glor'ous Blooms,</l>
+                  <l>From <hi>Edom</hi> and <hi>Bozrath;</hi>
+                  </l>
+                  <l>In whoſe Brow high is Majeſty,</l>
+                  <l>And treads untrodden Paths.</l>
+               </lg>
+               <lg>
+                  <l>Glory ſurrounds his Body's Bounds,</l>
+                  <l>There's Terror in his Face:<note place="margin">Mr. <hi>Norris.</hi>
+                     </note>
+                  </l>
+                  <l>The Evening Sky, the Scarlet Dye,</l>
+                  <l>His Robes cannot debaſe;</l>
+                  <l>They are ſo red with God-like Blood,</l>
+                  <l>And Blood of Enemies;</l>
+                  <l>They are much ſtain'd with Conqueſt gain'd,</l>
+                  <l>And bleſſed Victories.</l>
+               </lg>
+               <lg>
+                  <l>I mighty One, 'tis I do come,</l>
+                  <l>That treads the Preſs alone</l>
+                  <l>Of Wrath Divine, ſuch Power is mine,</l>
+                  <l>I will have help from none.</l>
+                  <l>'Tis I can ſpeak my Foes to death,</l>
+                  <l>And that in Righteouſneſs:</l>
+                  <pb n="62" facs="tcp:109813:32"/>
+                  <l>Almighty I can ſave moſt high,</l>
+                  <l>From Hell to Heaven's Bliſs.</l>
+               </lg>
+               <lg>
+                  <l>'Tis I alone go conqu'ring on,</l>
+                  <l>By my great Power and Strength;</l>
+                  <l>And Blood runs o're my Garments pure,</l>
+                  <l>My People might have Health.</l>
+                  <l>'Tis I outvie the Scarlet Dye,</l>
+                  <l>And make my Garments red,</l>
+                  <l>Like thoſe Men that do tread the Fat</l>
+                  <l>And Wine-preſs for the Blood.</l>
+               </lg>
+               <lg>
+                  <l>I wear thoſe Clothes, red like the Roſe,</l>
+                  <l>To ſave ſome, ſome deſtroy:</l>
+                  <l>By ſhedding Blood, I bruiſe one's Head,</l>
+                  <l>And God do ſatisfy.</l>
+                  <l>The Day is come, that ſignal One,</l>
+                  <l>And Death ſhall have its Doom;</l>
+                  <l>The Kingdoms dark I will ſubvert,</l>
+                  <l>And conquer every One.</l>
+               </lg>
+               <lg>
+                  <l>No Sea of Blood but Chriſt's moſt good,</l>
+                  <l>The Enemy could ſpoil:</l>
+                  <l>And we are glad, Chriſt's bloody Flag</l>
+                  <l>Doth flouriſh over all.</l>
+                  <l>The Cher'bims Guard of the High Lord,</l>
+                  <l>Stood by while Chriſt did fight;</l>
+                  <l>His Father true forſook him too,</l>
+                  <l>Yet he the Field did get.</l>
+                  <pb n="63" facs="tcp:109813:32"/>
+                  <l>My Fury ſtrong ſupports me long,</l>
+                  <l>And with my ſingle Arm,</l>
+                  <l>The Conqueſt's won, Salvation's come</l>
+                  <l>To mine that none can harm.</l>
+               </lg>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>This Chapter contains an Account of a tri<g ref="char:EOLhyphen"/>umphant Song to the Lamb, by the Saints of the Old and New Teſtament, for Chriſt's moſt glorious Conqueſt over his and the Church's Enemies, in his Reſur<g ref="char:EOLhyphen"/>rection and Aſcenſion.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>WITH <hi>Deborah</hi> we'l ſing to <hi>Jah,</hi>
+                  </l>
+                  <l>Who hath avenged me,</l>
+                  <l>And trod down Strength; his Arm hath length</l>
+                  <l>To ſpoil his Enemy.</l>
+                  <l>When he march'd on, the Enemy ſtrong</l>
+                  <l>Did tremble in the Earth;</l>
+                  <l>And in the Field he made them yield,</l>
+                  <l>As Holy Scripture ſaith.</l>
+               </lg>
+               <lg>
+                  <l>Wake <hi>Deborah,</hi> awake with Mirth,</l>
+                  <l>A Song of. Triumph ſing:</l>
+                  <l>Our <hi>Barak</hi> Head Captivity led</l>
+                  <l>A Captive, tho a King.</l>
+                  <pb n="64" facs="tcp:109813:33"/>
+                  <l>Proud <hi>Siſera</hi> muſt ſtand in awe,</l>
+                  <l>The Stars in Heaven fight;</l>
+                  <l>The great <hi>Jael</hi> hath conquer'd Hell,</l>
+                  <l>And put his Foes to flight.</l>
+               </lg>
+               <lg>
+                  <l>Come to our King, with-<hi>Iſrael</hi> ſing,</l>
+                  <l>The Lord's a Man of War:</l>
+                  <l>He gloriouſly triumphs on high,</l>
+                  <l>And leads his Enemies far.</l>
+                  <l>
+                     <hi>Pharaoh</hi> of Hell that proud Rebel,</l>
+                  <l>His Chariots overthrew;</l>
+                  <l>His great Captains, and choſen Ones,</l>
+                  <l>Their Strength could not renew.</l>
+               </lg>
+               <lg>
+                  <l>They proudly ſaid, Purſue the Head,</l>
+                  <l>Fight not with Small or Great,</l>
+                  <l>But <hi>Iſrael</hi>'s King, ſtrike moſt at him,</l>
+                  <l>Then we ſhall them defeat.</l>
+                  <l>Come draw your Sword, upon my Word,</l>
+                  <l>My Luſt I will fulfil;</l>
+                  <l>I will divide the Spoil, his Pride</l>
+                  <l>Shall not go conquering ſtill.</l>
+               </lg>
+               <lg>
+                  <l>The Sea aroſe upon his Foes,</l>
+                  <l>And in it they did ſink;</l>
+                  <l>A Sea of Wrath, wherein no Path</l>
+                  <l>Can find from it to ſhrink.</l>
+                  <l>Who can compare with this moſt Fair,</l>
+                  <l>Glorious in Holineſs,</l>
+                  <l>And fearful in the praiſe of Men?</l>
+                  <l>His Wonders cannot ceaſe:</l>
+                  <pb n="65" facs="tcp:109813:33"/>
+                  <l>Now <hi>Hannah</hi> ſung, we will prolong,</l>
+                  <l>Our Honour he exalts;</l>
+                  <l>Againſt our Foes his Power flows,</l>
+                  <l>They may not proudly talk,</l>
+                  <l>The mighty One is broken down,</l>
+                  <l>And weak Ones girded are;</l>
+                  <l>The Prince brought down from a high Throne,</l>
+                  <l>The Poor exalted there.</l>
+               </lg>
+               <lg>
+                  <l>Come, <hi>Eſa</hi>'s Song we will prolong,</l>
+                  <l>To our beloved King,</l>
+                  <l>That us hath made his ſweet Vineyard,</l>
+                  <l>Who were but Lumps of Sin;</l>
+                  <l>And fix'd it in a fruitful Hill,</l>
+                  <l>Where Showers fall Divine;</l>
+                  <l>A Tower great he made in it,</l>
+                  <l>And on it Chriſt doth ſhine.</l>
+               </lg>
+               <lg>
+                  <l>He doth it watch, his Vineyard rich,</l>
+                  <l>'Tis done both Night and Day:</l>
+                  <l>A fiery Wall is round them all,</l>
+                  <l>Againſt the Beaſts of Prey.</l>
+                  <l>May <hi>Zion</hi> ſay, in a good Day,</l>
+                  <l>Tho thou waſt angry, Lord,</l>
+                  <l>With me for Sin, through Chriſt our King,</l>
+                  <l>Thy Favour is reſtor'd.</l>
+               </lg>
+               <lg>
+                  <l>Behold, my God doth Help afford,</l>
+                  <l>He is Salvation;</l>
+                  <pb n="66" facs="tcp:109813:34"/>
+                  <l>Who ſhall I fear? <hi>Jehovah</hi>'s near,</l>
+                  <l>My Truſt, my Strength, my Song.</l>
+                  <l>Therefore in Faith let's draw with Mirth,</l>
+                  <l>From God's Salvation-Wells,</l>
+                  <l>Thoſe living Streams, Chriſt's bloody Veins</l>
+                  <l>Did purchaſe for Rebels.</l>
+               </lg>
+               <lg>
+                  <l>In this good Day, we all will ſay,</l>
+                  <l>Praiſe, praiſe the Lord alone;</l>
+                  <l>Exalt his Name, and ſpread his Fame,</l>
+                  <l>For great's the holy One.</l>
+                  <l>In <hi>Zion</hi>'s Land, his mighty Hand</l>
+                  <l>Is ſtretched out to ſave</l>
+                  <l>His <hi>Iſrael,</hi> where he doth dwell,</l>
+                  <l>Whom to his Son he gave.</l>
+               </lg>
+               <lg>
+                  <l>Well is it ſaid, in God's ſure Word,</l>
+                  <l>Excellent Things doth he:</l>
+                  <l>'Tis ſhewed forth in all the Earth,</l>
+                  <l>God for his Church will be.</l>
+                  <l>Sing and cry out, come give a Shout</l>
+                  <l>Of <hi>Hallelujah</hi>'s high</l>
+                  <l>To <hi>Jehovah,</hi> begun on Earth,</l>
+                  <l>But laſts Eternity.</l>
+               </lg>
+               <lg>
+                  <l>The Prophet old, when he foretold</l>
+                  <l>Death ſhould be ſwallowed up</l>
+                  <l>In Victory, by one on high,</l>
+                  <l>Then he this Song did put</l>
+                  <l>Unto the Church, to triumph much</l>
+                  <l>On that triumphant Day:</l>
+                  <pb n="67" facs="tcp:109813:34"/>
+                  <l>Eternal Gates, ſtand ope in ſtate,</l>
+                  <l>That Saints then enter may.</l>
+               </lg>
+               <lg>
+                  <l>This City ſtrong they enter in,</l>
+                  <l>Salvation is their Wall,</l>
+                  <l>And Bullwarks too; none can ſubdue</l>
+                  <l>And make this City fall.</l>
+                  <l>As <hi>Mary</hi>'s Song, when <hi>Gabriel</hi> came,</l>
+                  <l>The Angel her did tell,</l>
+                  <l>And her ſalute, and kindly greet,</l>
+                  <l>With News that did excel;</l>
+               </lg>
+               <lg>
+                  <l>That ſhe ſhould bear the glorious Heir</l>
+                  <l>Of Heaven, and of Earth;</l>
+                  <l>In her pure Womb ſhould lie God's Son,</l>
+                  <l>As holy Scripture ſaith.</l>
+                  <l>Then ſhe brake out with holy Shout</l>
+                  <l>Of Praiſe, to magnify</l>
+                  <l>The Lord above, who in much Love</l>
+                  <l>Had fill'd her Soul with Joy.</l>
+               </lg>
+               <lg>
+                  <l>What Wonders here, that I ſhould bear</l>
+                  <l>A Saviour unto Man!</l>
+                  <l>That I ſo poor, God great in Power,</l>
+                  <l>Should ſet his Love upon!</l>
+                  <l>And me exalt, with all my Faults,</l>
+                  <l>Above all Women high;</l>
+                  <l>No Queen he took this King to ſuck,</l>
+                  <l>Or bear in her Body:</l>
+                  <pb n="68" facs="tcp:109813:35"/>
+                  <l>But me poor Maid he did regard,</l>
+                  <l>To his eternal Praiſe,</l>
+                  <l>I bore the King who had no Sin,</l>
+                  <l>One of eternal Days.</l>
+                  <l>With <hi>Zachary,</hi> the Lord on high,</l>
+                  <l>Let us ever extol,</l>
+                  <l>For viſiting and redeeming</l>
+                  <l>His People from all thrall.</l>
+               </lg>
+               <lg>
+                  <l>A Horn of Power, and a ſtrong Tower</l>
+                  <l>Of great Salvation,</l>
+                  <l>For us hath rais'd; eternal Praiſe</l>
+                  <l>The Lord ſhall wait alone.</l>
+                  <l>Now are made good the Prophet's words,</l>
+                  <l>Spake ſince the World began:</l>
+                  <l>God's Covenant ſtood, his Mercy's good,</l>
+                  <l>He ſent to us his Son,</l>
+               </lg>
+               <lg>
+                  <l>To ſave us from the Proud and Strong,</l>
+                  <l>Yea all our Enemies,</l>
+                  <l>In Righteouſneſs and Holineſs,</l>
+                  <l>To ſerve him all our Days.</l>
+                  <l>That good Day-ſpring doth Knowledg bring</l>
+                  <l>Of Sins remiſſion free,</l>
+                  <l>And bleſſed Light, and Peace in ſight,</l>
+                  <l>To thoſe in Darkneſs lay.</l>
+               </lg>
+               <lg>
+                  <l>With <hi>Simeon</hi> old, let's be ſo bold,</l>
+                  <l>To take the Lord of Glory;</l>
+                  <l>In Arms of Love, tho high above</l>
+                  <l>Heaven's Superior Story.</l>
+                  <pb n="69" facs="tcp:109813:35"/>
+                  <l>And praiſe him too, for 'tis his due,</l>
+                  <l>And tell him we can die</l>
+                  <l>Peace and Reſt, becauſe the beſt</l>
+                  <l>Of Objects now we ſee.</l>
+               </lg>
+               <lg>
+                  <l>Our Eyes have ſeen the bleſſed One,</l>
+                  <l>Hid from great Potentates.</l>
+                  <l>The Gentiles Light, he is moſt bright,</l>
+                  <l>And <hi>Iſrael</hi>'s Glory great.</l>
+                  <l>Now triumph Saint, the Lord he went</l>
+                  <l>Unto Mount <hi>Calvary;</hi>
+                  </l>
+                  <l>Suffer'd the Croſs, and bore the Curſe</l>
+                  <l>For Man's Felicity.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or ſurely by his Poverty</l>
+                  <l>The Poor are very rich;</l>
+                  <l>And by his Shame they have great Fame,</l>
+                  <l>No earthly Monarch ſuch.</l>
+                  <l>We were ſet free, for bound was he</l>
+                  <l>Unto the Poſt and Croſs;</l>
+                  <l>Great Grief he had, we might be glad</l>
+                  <l>Our Crown cannot be loſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rom Heaven's room the Son came down,</l>
+                  <l>We all might there aſcend:</l>
+                  <l>God Man became, he might regain</l>
+                  <l>That Love which hath no End:</l>
+                  <l>No Houſe had he, tho of Heaven free,</l>
+                  <l>We may have one above,</l>
+                  <l>Not made with Hands, or Mens Commands,</l>
+                  <l>But by God's Power and Love.</l>
+               </lg>
+               <lg>
+                  <pb n="70" facs="tcp:109813:36"/>
+                  <l>God in the dark ſeem'd to forſake</l>
+                  <l>His own eternal Son;</l>
+                  <l>We might have Light, ſplendid and bright,</l>
+                  <l>And ever with him dwell.</l>
+                  <l>A Wonder's here, God's Son moſt dear,</l>
+                  <l>Had leſs ground to expect</l>
+                  <l>The Shines of God, when that he di'd,</l>
+                  <l>Than Saints of either Sex.</l>
+               </lg>
+               <lg>
+                  <l>He's in the Dark to purchaſe Light,</l>
+                  <l>From hence forſaken too:</l>
+                  <l>Saints may expect (tho Chriſt did not)</l>
+                  <l>God's Shines their Dying-day.</l>
+                  <l>Lord, we a Song will ſing, as long</l>
+                  <l>As an Eternity.</l>
+                  <l>O King of Days, 'tis endleſs Praiſe</l>
+                  <l>Is ſtill thy Childrens cry.</l>
+               </lg>
+               <lg>
+                  <l>What tho we ſtand in a ſtrange Land,</l>
+                  <l>A <hi>Babel</hi> Wilderneſs,</l>
+                  <l>Our Harps will tune to the Renown</l>
+                  <l>Of him who's Lord of Hoſts.</l>
+                  <l>As travelling on to Mount <hi>Sion,</hi>
+                  </l>
+                  <l>Our Houſe, our Place, our Home;</l>
+                  <l>As going on, we'll ſing our Song</l>
+                  <l>To him upon the Throne.</l>
+               </lg>
+               <lg>
+                  <l>Who can but ſing, the Lord will come?</l>
+                  <l>Methinks he's at the Door;</l>
+                  <l>Faith ſees him ſtand, now juſt at hand,</l>
+                  <l>My Soul be ſad no more.</l>
+                  <pb n="71" facs="tcp:109813:36"/>
+                  <l>With <hi>David</hi> ſing, and Offerings bring;</l>
+                  <l>Let all the Saints of God</l>
+                  <l>Rejoice in him, that maketh them</l>
+                  <l>Moſt glorious by his Blood.</l>
+               </lg>
+               <lg>
+                  <l>Upon your Bed, ſing to your Head,</l>
+                  <l>Declare his noble Acts;</l>
+                  <l>For this will be-eternally</l>
+                  <l>The Work of Tongue and Hearts.</l>
+                  <l>O let us ſing the Lamb's ſweet Song,</l>
+                  <l>Cry, <hi>Great and marvell us</hi>
+                  </l>
+                  <l>
+                     <hi>Are all thy Works, Lord God of Hoſts,</hi>
+                  </l>
+                  <l>
+                     <hi>Almighty, true and juſt!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And with Saint <hi>John,</hi> we'l praiſe the Lamb,</l>
+                  <l>The Prince and King of Earth,</l>
+                  <l>Who loved us, and waſhed us</l>
+                  <l>With his own Blood through Faith.</l>
+                  <l>To God moſt wiſe give all due Praiſe,</l>
+                  <l>Glory and Majeſty;</l>
+                  <l>Dominion great, a Prince's Seat</l>
+                  <l>He hath above the Sky.</l>
+               </lg>
+               <lg>
+                  <l>Let's give henceforth <hi>Hallelujah,</hi>
+                  </l>
+                  <l>Salvation, Honour too;</l>
+                  <l>With that Voice came out from the Throne,</l>
+                  <l>Praiſe God his Servants do.</l>
+                  <l>O King of Saints, all Nations faint</l>
+                  <l>At thy juſt Judgment, Lord;</l>
+                  <pb n="72" facs="tcp:109813:37"/>
+                  <l>Who ſhall not fear, and thee revere,</l>
+                  <l>And ſpread thy Fame abroad?</l>
+               </lg>
+               <lg>
+                  <l>Thou worthy art to have the Heart,</l>
+                  <l>Becauſe all Things th'haſt made,</l>
+                  <l>For thine own Will, and Glory ſtill;</l>
+                  <l>Hence 'tis we give thee Laud.</l>
+                  <l>Let Heav'n and Earth their Praiſe ſet forth,</l>
+                  <l>And <hi>Hallelujahs</hi> ſing,</l>
+                  <l>For our high God, and mighty Lord,</l>
+                  <l>Remains a conqu'ring King.</l>
+               </lg>
+            </div>
+            <div n="21" type="chapter">
+               <head>CHAP. XXI.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>An Evangeliſt ſheweth whence it was that ſo much Shame and Pain fell on an innocent Perſon, by ſtriking the Name of the Deb<g ref="char:EOLhyphen"/>tors out of the black and bloody Bond of the Law, and inſerting his own. What a long Journey he came to redeem and marry poor Leprous Beggars. And what bloody Battels he fought to gain this poor con<g ref="char:EOLhyphen"/>temptible Worm, and how he inveſted her with an Eternal Kingdom of Glory, from his laſt Will and Teſtament.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>WHO Inqueſt-makes, Interrogates,</l>
+                  <l>The Scribe which here indites?</l>
+                  <pb n="73" facs="tcp:109813:37"/>
+                  <l>If he can ſhow, why all this Wo</l>
+                  <l>Fell on the Lord of Light?</l>
+                  <l>I'll take from thee Prolixity,</l>
+                  <l>In a Compendium ſhew,</l>
+                  <l>That thee and I made him to die,</l>
+                  <l>Who was <hi>Meſſiah</hi> true:</l>
+               </lg>
+               <lg>
+                  <l>His Cheeks we ſmote by our proud Heart,</l>
+                  <l>And Hair eradicate;</l>
+                  <l>His Hands and Feet Nails penetrate,</l>
+                  <l>He might us happy make.</l>
+                  <l>I ſay again, thy Sin and mine</l>
+                  <l>Procured all this Wo;</l>
+                  <l>The thorny Crown makes Blood run down,</l>
+                  <l>From Head to Feet below.</l>
+               </lg>
+               <lg>
+                  <l>We him did ſtrip, and alſo whip,</l>
+                  <l>The Spear ran in his Side;</l>
+                  <l>The Travail of his Soul did make</l>
+                  <l>An Enemy his Bride.</l>
+                  <l>Come Malefactor, evil Actor,</l>
+                  <l>Make one believing look:</l>
+                  <l>What all paſs by, none caſt an Eye</l>
+                  <l>On me who am forſook</l>
+               </lg>
+               <lg>
+                  <l>Of my dear God, my precious Lord?</l>
+                  <l>And purely for your ſake</l>
+                  <l>I left my Weal inſcrutable;</l>
+                  <l>I might you happy make.</l>
+                  <pb n="74" facs="tcp:109813:38"/>
+                  <l>My Hand I ſtruck, with God who took</l>
+                  <l>My Covenant and Bail,</l>
+                  <l>That I might ſee the Debtor free</l>
+                  <l>From the Infernal Jail.</l>
+               </lg>
+               <lg>
+                  <l>Men ought repent, they ever went</l>
+                  <l>To take a Surety's Place;</l>
+                  <l>But I did long the Day were come,</l>
+                  <l>Tho ſuffer'd much Diſgrace.</l>
+                  <l>Your Names ſtruck out the legal Book,</l>
+                  <l>That Book and bloody Bond,</l>
+                  <l>My Name I inſert with all my Heart,</l>
+                  <l>So I ſtand only bound.</l>
+               </lg>
+               <lg>
+                  <l>I who am juſt, God did arreſt</l>
+                  <l>Your Subſtitute for all;</l>
+                  <l>And God accounts the Sinner juſt,</l>
+                  <l>And Chriſt the Criminal.</l>
+                  <l>I paid Man's Debt by bloody Sweat,</l>
+                  <l>In Priſon alſo lay;</l>
+                  <l>But afterward had a Diſcharge</l>
+                  <l>On th' Reſurrection Day.</l>
+               </lg>
+               <lg>
+                  <l>O Men admire free Grace the higher,</l>
+                  <l>For Love diſtinguiſhing,</l>
+                  <l>That you might live, an Object have</l>
+                  <l>For Faith, tho Devils none.</l>
+                  <l>No Goſpel-light before their ſight,</l>
+                  <l>Men no Commiſſion have</l>
+                  <l>To preach in Hell the pure Goſpel,</l>
+                  <l>He only Men will ſave.</l>
+               </lg>
+               <lg>
+                  <pb n="75" facs="tcp:109813:38"/>
+                  <l>Surely Succeſs we ſhould not miſs,</l>
+                  <l>That are Ambaſſadors.</l>
+                  <l>If we could preach, and Devils teach,</l>
+                  <l>Their Pardon Chriſt procures.</l>
+                  <l>But now we preach, our Hands we ſtretch</l>
+                  <l>In vain the whole long day,</l>
+                  <l>And call upon the Sons of Men</l>
+                  <l>To haſte and come away</l>
+               </lg>
+               <lg>
+                  <l>To Jeſus Chriſt the Chief and Beſt;</l>
+                  <l>But Sinners will not hear:</l>
+                  <l>So Unbelief makes them the Chief</l>
+                  <l>Of Sinners, will appear;</l>
+                  <l>Yea greater than the Devil's Sin,</l>
+                  <l>Or Man's in Paradiſe,</l>
+                  <l>For neither of them did rebel</l>
+                  <l>Againſt redeeming Grace.</l>
+               </lg>
+            </div>
+            <div n="22" type="chapter">
+               <head>CHAP. XXII.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>The Spouſe of Chriſt interpoſeth with the ad<g ref="char:EOLhyphen"/>miration of his Love, the Quantity, and immenſe Treaſures thereof, having no Bank nor Bottom. The Nature of it is free. All Sinners may fill their Veſſels from this Pipe; which is more comfortable than the moſt fragrant Wine, and ſo
+<pb n="76" facs="tcp:109813:39"/>powerful, that it draws the Heart to Chriſt, as a Loadſtone the Maſs of Steel.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>WHAT marvellous rich Love is this,</l>
+                  <l>That ſuch a curſed Race</l>
+                  <l>As we came from, ſhould ſit among</l>
+                  <l>The Children of his Grace!</l>
+                  <l>Our Fathers ſure, the <hi>Hittites</hi> were,</l>
+                  <l>Our Mothers <hi>Amorites:</hi>
+                  </l>
+                  <l>A curſed Race, yet by free Grace</l>
+                  <l>In thoſe the Lord delights.</l>
+               </lg>
+               <lg>
+                  <l>None us beheld when in the Field,</l>
+                  <l>All wallowing in our Blood;</l>
+                  <l>None pitied us under this Curſe,</l>
+                  <l>But the <hi>Samar'tan</hi> good.</l>
+                  <l>He caſts an Eye, when paſſed by,</l>
+                  <l>And ſaid, Live Infant, live;</l>
+                  <l>When in our Blood, he was ſo good,</l>
+                  <l>His ſaving Grace to give;</l>
+               </lg>
+               <lg>
+                  <l>And threw his Skirt on our foul Heart,</l>
+                  <l>To hide our Nakedneſs:</l>
+                  <l>This is the Time of Love, the Time</l>
+                  <l>He gave us Righteouſneſs.</l>
+                  <l>A Covenant wherein's no Want,</l>
+                  <l>With Sinners made when poor,</l>
+                  <l>To be his own he gave his Son,</l>
+                  <l>The Cov'nant to enſure.</l>
+               </lg>
+               <lg>
+                  <pb n="77" facs="tcp:109813:39"/>
+                  <l>We waſhed are with Water pure,</l>
+                  <l>And with the beſt of Blood,</l>
+                  <l>Blood's waſh'd away with Blood that Day</l>
+                  <l>Death ſeiz'd the Son of God.</l>
+                  <l>God did appoint them to anoint</l>
+                  <l>With his moſt precious Oil:</l>
+                  <l>They decked are with Silk and Hair,</l>
+                  <l>All clean, no longer foul.</l>
+               </lg>
+               <lg>
+                  <l>A Chain of Gold, the Worth's untold,</l>
+                  <l>Is put about her Neck;</l>
+                  <l>The Linen white, and broidred Work</l>
+                  <l>Doth her moſt lovely deck.</l>
+                  <l>Upon her Hands the Bracelet ſtands;</l>
+                  <l>Her Head with Jewels ſet,</l>
+                  <l>And on the ſame a glorious Crown:</l>
+                  <l>With Ear-rings ſhe's bedect.</l>
+               </lg>
+               <lg>
+                  <l>And ſhe did eat the fineſt Wheat,</l>
+                  <l>And ſweeteſt Honey too;</l>
+                  <l>She's beautiful, and doth excel</l>
+                  <l>The moſt Self-righteous <hi>Jew.</hi>
+                  </l>
+                  <l>Now her Renown, and glorious Fame,</l>
+                  <l>Goes through the Heathen Land:</l>
+                  <l>She proſpers in a bleſt Kingdom,</l>
+                  <l>Which never will have End.</l>
+               </lg>
+               <lg>
+                  <l>Her Comelineſs is Righteouſneſs,</l>
+                  <l>But this the Lord puts on;</l>
+                  <pb n="78" facs="tcp:109813:40"/>
+                  <l>And Comely through his Comelineſs,</l>
+                  <l>Glory to Grace alone.</l>
+                  <l>This Spouſe excels in glorious ſmells</l>
+                  <l>Myrrh, Alloes, Caſhia;</l>
+                  <l>Her Garments fine a ſweet Perfume</l>
+                  <l>Do caſt forth every way.</l>
+               </lg>
+               <lg>
+                  <l>Within, within the Glory's ſeen,</l>
+                  <l>In the King's Daughter true;</l>
+                  <l>Wrought Gold's her Garb, moſt richly laid,</l>
+                  <l>The Bridegroom wears it too:</l>
+                  <l>At whoſe right Hand the Queen doth ſtand,</l>
+                  <l>In Gold of <hi>Ophir</hi> fine:</l>
+                  <l>Her Beauty great makes Chriſt to ſpeak,</l>
+                  <l>Thy Beauty is Divine.</l>
+               </lg>
+               <lg>
+                  <l>The Father juſt his Son did truſt,</l>
+                  <l>Before his Incarnation,</l>
+                  <l>In ſaving thoſe, to Heaven goes,</l>
+                  <l>In every Land and Nation.</l>
+                  <l>The Son moſt juſt the Father truſts,</l>
+                  <l>That he Salvation give</l>
+                  <l>All the Elect, who have their Debt</l>
+                  <l>Paid long before they live.</l>
+               </lg>
+               <lg>
+                  <l>Their Debt did pay and ſatisfy,</l>
+                  <l>Some hundred Years before</l>
+                  <l>They Being had, by Chriſt his Blood,</l>
+                  <l>Or e're they ran in ſcore.</l>
+                  <l>What's requiſite, and what's moſt meet</l>
+                  <l>In any Advocate,</l>
+                  <pb n="79" facs="tcp:109813:40"/>
+                  <l>Is found in Chriſt, the Meek and Juſt,</l>
+                  <l>The only Potentate:</l>
+               </lg>
+               <lg>
+                  <l>Who doth delight to ſee the Spite</l>
+                  <l>And Diſagreement end,</l>
+                  <l>Between the King and Men for Sin,</l>
+                  <l>Therefore his Blood did ſpend.</l>
+                  <l>He's juſt and meek, yea very ſweet,</l>
+                  <l>Moſt powerful and true;</l>
+                  <l>And brings God down to love the Man,</l>
+                  <l>And Man to God does go.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Levites</hi> paſs, the Prieſts make haſte</l>
+                  <l>From us, ſweltring in Blood:</l>
+                  <l>But the good Man, <hi>Samaritan,</hi>
+                  </l>
+                  <l>Stood ſtill to do us good;</l>
+                  <l>And in the Soul did pour in Oil,</l>
+                  <l>So heal'd the Wounds of Sin;</l>
+                  <l>And rather than his Soul ſhould pine,</l>
+                  <l>His Blood he poured in.</l>
+               </lg>
+               <lg>
+                  <l>He covers all, our Shame and Fall,</l>
+                  <l>With Robes of Righteouſneſs:</l>
+                  <l>And gives to Man a glorious Ring,</l>
+                  <l>To ſeal them up to Bliſs.</l>
+                  <l>The fatted Beaſt is kill'd, to feaſt</l>
+                  <l>Thoſe ſtarving Souls of ours:</l>
+                  <l>O Lamb of God, thy Blood was ſhed</l>
+                  <l>In an accepted Hour.</l>
+               </lg>
+               <lg>
+                  <pb n="80" facs="tcp:109813:41"/>
+                  <l>We <hi>Syrians</hi> poor, and Strangers were,</l>
+                  <l>In a moſt forlorn Plight,</l>
+                  <l>Lay at thy Door of Grace full ſore,</l>
+                  <l>In Darkneſs without Light:</l>
+                  <l>Yet ſaidſt thou, Live, my Grace I give</l>
+                  <l>To thee, beſmear'd with Blood:</l>
+                  <l>Live, Infant live, my Son I give,</l>
+                  <l>To be thy Prince and Head;</l>
+               </lg>
+               <lg>
+                  <l>An Head of Senſe and Influence,</l>
+                  <l>Is to his Body dear:</l>
+                  <l>As from the Root the Branches ſhoot,</l>
+                  <l>So Chriſt the Church doth bear.</l>
+                  <l>His Lambs he'l feed, a tender Head,</l>
+                  <l>One Member if but ill,</l>
+                  <l>A Balſam made of his own Blood,</l>
+                  <l>Doth from the Heart diſtil,</l>
+               </lg>
+               <lg>
+                  <l>As Branches dry, and alſo die,</l>
+                  <l>Which from the Vine are cut;</l>
+                  <l>So every Saint would quickly faint,</l>
+                  <l>And die, if from the Root.</l>
+                  <l>As many Branches make one Vine,</l>
+                  <l>And many Grains one Loaf;</l>
+                  <l>So many Men one Body frame,</l>
+                  <l>Unite to Chriſt by Faith:</l>
+               </lg>
+               <lg>
+                  <l>Who gave himſelf for our Souls Health,</l>
+                  <l>That's more than Heaven high</l>
+                  <l>Ten thouſand times; ten thouſand Tens,</l>
+                  <l>Come let us for him die.</l>
+                  <pb n="81" facs="tcp:109813:41"/>
+                  <l>A Journey long, through Storms a throng,</l>
+                  <l>Chriſt came to viſit thee;</l>
+                  <l>His Head with Drops, and Dew his Locks</l>
+                  <l>Did wet, he might thee ſee.</l>
+               </lg>
+               <lg>
+                  <l>Tho Mankind had ſome Lovers bad,</l>
+                  <l>When he the Queſtion put;</l>
+                  <l>He gave his Dove excelling Love,</l>
+                  <l>By which their Hearts he took:</l>
+                  <l>But waited long, with Patience ſtrong,</l>
+                  <l>For Floods can't quench his Love;</l>
+                  <l>Repulſes ſtrong, often and long,</l>
+                  <l>Could not make him remove.</l>
+               </lg>
+               <lg>
+                  <l>This Bridegroom wrought, great Battels fought,</l>
+                  <l>To him none equal be:</l>
+                  <l>Few Husbands win their Bride and Kin</l>
+                  <l>By Blood, as he did thee.<note place="margin">Mr. <hi>Delaun.</hi>
+                     </note>
+                  </l>
+                  <l>Ear-rings of Gold, Riches untold,</l>
+                  <l>He clothes his Bride withal;</l>
+                  <l>His Spouſe doth dreſs with Righteouſneſs,</l>
+                  <l>To beautify the Soul.</l>
+               </lg>
+               <lg>
+                  <l>And from all Debts they are acquit,</l>
+                  <l>By Marriage of the King;</l>
+                  <l>Who will inveſt his with the Beſt,</l>
+                  <l>A Kingdom without Sin.</l>
+                  <l>What Monarchs known to leave his Throne,</l>
+                  <l>For Leprous and Diſeas'd?</l>
+                  <pb n="82" facs="tcp:109813:42"/>
+                  <l>And tho forlorn, and fill'd with Scorn,</l>
+                  <l>Yet he with thoſe is pleas'd.</l>
+               </lg>
+               <lg>
+                  <l>Some Bridegrooms change, new Lovers gain;</l>
+                  <l>And caſt the old away:</l>
+                  <l>But he loves firſt, unto the laſt,</l>
+                  <l>Yea to Eternity.</l>
+                  <l>The Mother dear, her Son moſt near</l>
+                  <l>She ſooner can forget,</l>
+                  <l>Than a Convert, with changed Heart,</l>
+                  <l>Out of his Love can ſlip.</l>
+               </lg>
+               <lg>
+                  <l>The Mountains faſt, they all ſhall haſte</l>
+                  <l>From their moſt fixed Place,</l>
+                  <l>Before that he will thee deny,</l>
+                  <l>Who art in Cov'nant-Grace.</l>
+                  <l>If any can the Heavens ſpan,</l>
+                  <l>And meaſure Sea and Land;</l>
+                  <l>Then Fleſh and Sin, and Satan's Gin,</l>
+                  <l>May pluck them from his Hand.</l>
+               </lg>
+               <lg>
+                  <l>If Moon ſo bright, and Stars oth' Night,</l>
+                  <l>Their Courſe can change and ſlip;</l>
+                  <l>Then may his Love decline his Dove,</l>
+                  <l>Whom he keeps while they ſleep.</l>
+                  <l>If he can drown the World again,</l>
+                  <l>Againſt his fix'd Decree:</l>
+                  <l>Then may his Love from thee remove,</l>
+                  <l>Which none ſhall ever ſee.</l>
+               </lg>
+               <lg>
+                  <pb n="87" facs="tcp:109813:42"/>
+                  <l>So we from Juſtice were diſcharg'd</l>
+                  <l>Upon his dying Day.</l>
+                  <l>He like a Lamb moſt patiently,</l>
+                  <l>Unto the Slaughter's led,</l>
+                  <l>And drunk the bitter Cup of Death,</l>
+                  <l>Without a murmuring Word.</l>
+               </lg>
+               <lg>
+                  <l>Before the Judgment Seat he ſtood,</l>
+                  <l>A Priſoner at the Bar:</l>
+                  <l>And by his Judgment we are freed,</l>
+                  <l>Who wretched Priſoners were.</l>
+                  <l>His Generation is ſo Great,</l>
+                  <l>Noble, Eternal too!</l>
+                  <l>None can declare the Number of</l>
+                  <l>His Sons and Daughters true.</l>
+               </lg>
+               <lg>
+                  <l>In ſhedding of his precious Blood,</l>
+                  <l>A numerous Off-ſpring hath,</l>
+                  <l>Which none can number nor declare,</l>
+                  <l>For they fill Heaven and Earth.</l>
+                  <l>And tho no Violence did act,</l>
+                  <l>Yet he muſt make his Grave</l>
+                  <l>With wicked and ungodly Men,</l>
+                  <l>For ſuch he came to ſave.</l>
+               </lg>
+               <lg>
+                  <l>It pleaſed God his Son to bruiſe,</l>
+                  <l>An Offering he might give,</l>
+                  <l>To have a glorious Church on Earth,</l>
+                  <l>And with him ever live.</l>
+                  <pb n="88" facs="tcp:109813:43"/>
+                  <l>As <hi>Eve</hi> came out of <hi>Adam</hi>'s Side,</l>
+                  <l>So did the Church from Chriſt;</l>
+                  <l>She is the Travail of his Soul,</l>
+                  <l>For whom he groaned much.</l>
+               </lg>
+               <lg>
+                  <l>But Satisfaction great hath he,</l>
+                  <l>After his trav'lling Soul;</l>
+                  <l>For his Seed he will juſtify,</l>
+                  <l>By knowing Chriſt their All.</l>
+                  <l>A Portion with the Great he'l have,</l>
+                  <l>And with the Strong divide</l>
+                  <l>The Glory of his conquering Strength,</l>
+                  <l>In ſpite of Helliſh Pride:</l>
+               </lg>
+               <lg>
+                  <l>Becauſe he poured forth his Soul</l>
+                  <l>To Death, both frank and free,</l>
+                  <l>And took it up in three Days time,</l>
+                  <l>So got the Victory.</l>
+                  <l>And now triumphantly is gone,</l>
+                  <l>Into the Heavens high,</l>
+                  <l>Having Captivity captive led,</l>
+                  <l>'Tis like his Majeſty.</l>
+               </lg>
+               <lg>
+                  <l>And there doth Interceſſion make</l>
+                  <l>For all whoſe Sins he bare;</l>
+                  <l>And will not ceaſe his glorious Work,</l>
+                  <l>Until they with him are.</l>
+                  <l>Our Ark of Love, which ſaves thy Dove,</l>
+                  <l>Thou art, O Lord, moſt ſtrong,</l>
+                  <l>When delug'd all the World beſide,</l>
+                  <l>Th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>'dſt thy Church <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="89" facs="tcp:109813:43"/>
+                  <l>Our <hi>Jacob</hi>'s Ladder, by which God</l>
+                  <l>Doth friendly viſit us,</l>
+                  <l>And we aſcend upon the ſame,</l>
+                  <l>
+                     <hi>Immanuel,</hi> God with us.</l>
+                  <l>Our <hi>Iſaac</hi> art, who bore the Croſs,</l>
+                  <l>And felt the ſharpned Sword,</l>
+                  <l>In whom the Nations all are bleſt,</l>
+                  <l>According to thy Word.</l>
+               </lg>
+               <lg>
+                  <l>Our bleſſed <hi>Joſeph,</hi> who was ſent</l>
+                  <l>From <hi>Canaan</hi> heavenly,</l>
+                  <l>Unto the <hi>Egypt</hi> of this World</l>
+                  <l>For Food, we might not die.</l>
+                  <l>Our fiery cloudy Pillar art,</l>
+                  <l>In this dark Wilderneſs:</l>
+                  <l>Our <hi>Joſhua</hi> doth us conduct</l>
+                  <l>Unto the Land of Reſt.</l>
+               </lg>
+               <lg>
+                  <l>Our Rock of Ages, Lord, thou art,</l>
+                  <l>Smote both by God and Man:</l>
+                  <l>The Emanation of thy Blood</l>
+                  <l>And Streams were ſeen by <hi>John.</hi>
+                  </l>
+                  <l>Our feaſting Paſſover alſo,</l>
+                  <l>The ſpotleſs Lamb was ſlain;</l>
+                  <l>The ſprinkling of the Soul by Blood,</l>
+                  <l>Prevents a ſinful Reign.</l>
+               </lg>
+               <lg>
+                  <l>Our brazen Serpent we behold,</l>
+                  <l>Whenever ſtung with Sin;</l>
+                  <l>From that Diſeaſe deliver'd are,</l>
+                  <l>Which elſe would end in Hell.</l>
+                  <pb n="90" facs="tcp:109813:44"/>
+                  <l>Our <hi>Jubilee,</hi> accepted Year,</l>
+                  <l>Was the Year of thy Death;</l>
+                  <l>We heard the Goſpel-Trumpet ſound</l>
+                  <l>True Joy, and free from Wrath.</l>
+               </lg>
+               <lg>
+                  <l>Our Mercy-Seat, and Throne of Grace,</l>
+                  <l>The great Propitiatory;</l>
+                  <l>From which the Father kindly ſpeaks,</l>
+                  <l>Poor Sinners here is Glory.</l>
+                  <l>The Mercy-Seat above the Ark,</l>
+                  <l>And Tables of the Law,</l>
+                  <l>Did figure Mercy triumphing,</l>
+                  <l>O'er Juſtice which we ſaw.</l>
+               </lg>
+               <lg>
+                  <l>The Altar, Prieſt, and Sacrifice:</l>
+                  <l>As Prieſt, both Man and God;</l>
+                  <l>As Altar, God, who ſanctifies;</l>
+                  <l>As Man, the Offering's good.</l>
+                  <l>The rich and holy Vail thou art,</l>
+                  <l>Thy Body's Vail was rent:</l>
+                  <l>So we into the holy Place</l>
+                  <l>May have a free aſcent.</l>
+               </lg>
+               <lg>
+                  <l>The Manna in the Wilderneſs,</l>
+                  <l>Tho called <hi>Angels Food,</hi>
+                  </l>
+                  <l>Is far unlike that feeds the Soul,</l>
+                  <l>The Goſpel-Feaſt is Blood,</l>
+                  <l>Which here below we feed upon,</l>
+                  <l>In this ſad Wilderneſs;</l>
+                  <l>But when once got to <hi>Canaan</hi>'s Land,</l>
+                  <l>We feed no more as thus.</l>
+               </lg>
+               <lg>
+                  <pb n="91" facs="tcp:109813:44"/>
+                  <l>Yet as the Jew could not forget</l>
+                  <l>The Manna Miracle;</l>
+                  <l>No more can Saints forget in Bliſs,</l>
+                  <l>God's Wonders there to tell.</l>
+                  <l>Our <hi>Shiloh,</hi> and ſafe Maker art,</l>
+                  <l>And <hi>Jacob</hi>'s Star alſo;</l>
+                  <l>The Laver where poor Lepers waſh,</l>
+                  <l>And bleſſed Fountain too,</l>
+               </lg>
+               <lg>
+                  <l>That's opened for <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>And <hi>Judah</hi>'s Guilt to waſh;</l>
+                  <l>And all the <hi>Gentiles</hi> that repair</l>
+                  <l>To him for Righteouſneſs.</l>
+                  <l>The Shew-bread Table did hold forth,</l>
+                  <l>In God's Houſe is no want:</l>
+                  <l>The Lord is alway with his Flock,</l>
+                  <l>His Table is not ſcant.</l>
+               </lg>
+               <lg>
+                  <l>Our Altar of Perfume, O Lord,</l>
+                  <l>And golden Cenſor art;</l>
+                  <l>The Cloud of ſpiced Incenſe ſweet</l>
+                  <l>Perfumes the Mercy-ſeat.</l>
+                  <l>O Lord, our Sin, and Peace-off'ring,</l>
+                  <l>
+                     <hi>Jonah</hi> caſt in the Sea,</l>
+                  <l>To ſtill the Storm of Wrath Divine,</l>
+                  <l>Man in it may not lie.</l>
+               </lg>
+               <lg>
+                  <l>Our Temple, Tabernacle true,</l>
+                  <l>Which God did pitch, not Man;</l>
+                  <l>The Godhead dwelt in humane Fleſh,</l>
+                  <l>Is the Temple I mean.</l>
+                  <pb n="92" facs="tcp:109813:45"/>
+                  <l>Our <hi>Joſhua</hi> and dear Saviour,</l>
+                  <l>Who wore our Rags of Sin,</l>
+                  <l>And we his Robes of Righteouſneſs,</l>
+                  <l>So brought unto the King.</l>
+               </lg>
+               <lg>
+                  <l>And now the filthy Garment's gone,</l>
+                  <l>And chang'd with Raiment new,</l>
+                  <l>The long and ſpotleſs Robe of Chriſt:</l>
+                  <l>Now what can Satan do?</l>
+                  <l>Thou art our great <hi>Zerubbabel,</hi>
+                  </l>
+                  <l>A ſpiritual Temple makes;</l>
+                  <l>The Temple of the living God</l>
+                  <l>In Men, Chriſt undertakes,</l>
+               </lg>
+               <lg>
+                  <l>To build, tho greatly oppoſed</l>
+                  <l>By Mountain Enemies:</l>
+                  <l>He that laid the Foundation-ſtone,</l>
+                  <l>The Top-ſtone he will raiſe;</l>
+                  <l>And finiſh Grace where it's begun,</l>
+                  <l>In ſpite of all our Foes:</l>
+                  <l>That you may all ever aſcribe</l>
+                  <l>To him, Grace, Glory, Praiſe.</l>
+               </lg>
+               <lg>
+                  <l>Our <hi>Sampſon</hi> art, who ſlew by Death,</l>
+                  <l>More than when living was:</l>
+                  <l>The ſtrangeſt way of conquering,</l>
+                  <l>Is dying on a Croſs.</l>
+                  <l>Who took from Satan's Kingdom great,</l>
+                  <l>The Gates thereof away;</l>
+                  <l>And led Captivity captive,</l>
+                  <l>In his triumphing Day.</l>
+               </lg>
+               <lg>
+                  <pb n="93" facs="tcp:109813:45"/>
+                  <l>Our ſpotleſs Lamb, both God and Man,</l>
+                  <l>Was foreordain'd to die,</l>
+                  <l>To take off Sin, and Death's great Sting,</l>
+                  <l>Bring Immortality.</l>
+                  <l>The ſlain and living Goat thou art:</l>
+                  <l>As ſlain, the Mercy-ſeat</l>
+                  <l>Is ſtill with Blood beſprinkled;</l>
+                  <l>As living doſt intreat,</l>
+               </lg>
+               <lg>
+                  <l>And interceed continually:</l>
+                  <l>This is the Incenſe ſweet,</l>
+                  <l>That like a Cloud in ſweet Perfume,</l>
+                  <l>Is round the Mercy-ſeat.</l>
+                  <l>The Goat on which our Sins are laid,</l>
+                  <l>Iniquities confeſs,</l>
+                  <l>And carried out of Memory,</l>
+                  <l>Loſt in the Wilderneſs:</l>
+               </lg>
+               <lg>
+                  <l>And far removed, as Eaſt from Weſt,</l>
+                  <l>Drown'd in his bloody Sea;</l>
+                  <l>Behind his Back they all are caſt,</l>
+                  <l>And blots them out moſt free.</l>
+                  <l>He is the great <hi>Melchiſedeck,</hi>
+                  </l>
+                  <l>Without Beginning, End;</l>
+                  <l>As Man no Sire, no Mother as God,</l>
+                  <l>The Type he did tranſcend.</l>
+               </lg>
+               <lg>
+                  <l>A King of Peace, and Prieſt moſt high,</l>
+                  <l>Who offer'd once for all;</l>
+                  <pb n="94" facs="tcp:109813:46"/>
+                  <l>Not for his own, but others Sins,</l>
+                  <l>Himſelf, not Beaſts did fall.</l>
+                  <l>The Peoples Covenant thou art,</l>
+                  <l>In Subſtance, Perſon, Name;</l>
+                  <l>And hence art called <hi>Immanuel,</hi>
+                  </l>
+                  <l>Two Natures, Perſon one.</l>
+               </lg>
+               <lg>
+                  <l>The Subſtance of the Covenant</l>
+                  <l>Of Grace, it is in ſhort;</l>
+                  <l>Thy God I am, thou ſhalt be mine,</l>
+                  <l>And we will never part.</l>
+                  <l>Now God and Man together dwell</l>
+                  <l>In Chriſt, for evermore:</l>
+                  <l>This is the great Foundation of</l>
+                  <l>Man's Happineſs in ſtore.</l>
+               </lg>
+               <lg>
+                  <l>That tho by Sin Man's ſeparate</l>
+                  <l>From God, the chiefeſt Good,</l>
+                  <l>Yet now in Chriſt united are,</l>
+                  <l>Man ſhall live ſtill with God.</l>
+                  <l>And if the Union cannot ceaſe,</l>
+                  <l>Call'd <hi>Hypoſtatical;</hi>
+                  </l>
+                  <l>No more can that 'tween God and his,</l>
+                  <l>Becauſe 'tis Eternal.</l>
+               </lg>
+               <lg>
+                  <l>Tho God and all our <hi>Adam</hi> loſt,</l>
+                  <l>Yet Chriſt hath it regain'd:</l>
+                  <l>And now the Saints have God in all,</l>
+                  <l>The want of which them pain'd.</l>
+                  <pb n="95" facs="tcp:109813:46"/>
+                  <l>But Unbelievers have not God,</l>
+                  <l>In what they do enjoy;</l>
+                  <l>Since Sin did break the golden Link,</l>
+                  <l>All things do them annoy.</l>
+               </lg>
+               <lg>
+                  <l>But thoſe are Chriſt's, all things are theirs,</l>
+                  <l>And work ſtill for their Good;</l>
+                  <l>But the Profane, what e're they have,</l>
+                  <l>It's ſeparate from God;</l>
+                  <l>From God in way of Covenant,</l>
+                  <l>So that all theſe may ſay,</l>
+                  <l>Riches and Honour I have much,</l>
+                  <l>But God in all leaves me.</l>
+               </lg>
+               <lg>
+                  <l>And when Man loſt a ſight of God,</l>
+                  <l>A Viſion beautiful;</l>
+                  <l>He by his Blood hath it regain'd,</l>
+                  <l>When all things elſe did fail.</l>
+               </lg>
+            </div>
+            <div n="23" type="chapter">
+               <pb n="96" facs="tcp:109813:47"/>
+               <head>CHAP. XXIV.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <p>
+                     <hi>The undefiled Virgins of the Lamb, beg her Beloved to make haſte over thoſe Moun<g ref="char:EOLhyphen"/>tains of</hi> Bether <hi>and Separation, and put an end to the Winter Storms, and haſten the break of the Eternal Summer and Day of Glory, where back-part Sights and Lattice-Looks will be turned into the Beatifical Viſion, and all the Saints ſhall have their white Robes, Palms in their Hands, and Crowns on their Heads, and ſit with Chriſt upon his Throne, to judg Men and Devils; then they ſhall behold the Glorious Deity ſhining through the Bleſſed Glaſs of the Humane Nature. The Virgins conclude with an Exhortation to the Noble Hoſt of Martyrs, the Glori<g ref="char:EOLhyphen"/>ous Apoſtles and Prophets, Elders, Sera<g ref="char:EOLhyphen"/>phims, Cherubims, and every Creature in Heaven and Earth, to caſt their Crowns before the Lamb.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>WHAT back-part Views, and Lattice Lights,</l>
+                  <l>To thoſe beyond the Grave;</l>
+                  <l>There's Banquets ſweet, here is none ſuch</l>
+                  <l>For any Saint to have.</l>
+                  <pb n="97" facs="tcp:109813:47"/>
+                  <l>Lord, make no ſtay, come look'd-for Day;</l>
+                  <l>What ails the Morning-Light?</l>
+                  <l>All Shadows flee away, be gone,</l>
+                  <l>And Day of Glory break.</l>
+               </lg>
+               <lg>
+                  <l>Lord, <hi>Bether</hi> Mount, remove it quite,</l>
+                  <l>And leap over them all;</l>
+                  <l>No longer Separation make</l>
+                  <l>Between thee and my Soul.</l>
+                  <l>O be thou like the Roe and Hart,</l>
+                  <l>With winged ſpeed make haſte;</l>
+                  <l>Come o're thoſe ſeparating Hills,</l>
+                  <l>And take us to thy Reſt.</l>
+               </lg>
+               <lg>
+                  <l>The Winter Blaſts are almoſt gone,</l>
+                  <l>Farewel the Rain and Flood:</l>
+                  <l>We cry aloud, come fetch us home,</l>
+                  <l>Why have thy Chariots ſtood?</l>
+                  <l>Come, Lord, with thy ſweet <hi>Jubilee,</hi>
+                  </l>
+                  <l>Hark how the Creatures groan</l>
+                  <l>With Saints, for full Redemption;</l>
+                  <l>Hear how they make their moan.</l>
+               </lg>
+               <lg>
+                  <l>Come, bleſſed Lord, do thou create</l>
+                  <l>New Heavens, and new Earth:</l>
+                  <l>A ſinleſs Kingdom we long for,</l>
+                  <l>Which gives true Joy and Mirth.</l>
+                  <l>With ſpeed make haſte, Vengeance to ſhow,</l>
+                  <l>For thy bleſt Temple's ſake:</l>
+                  <pb n="98" facs="tcp:109813:48"/>
+                  <l>All Antichriſts both Eaſt and Weſt</l>
+                  <l>Do thou make deſolate.</l>
+               </lg>
+               <lg>
+                  <l>And then the chief rejected Stone,</l>
+                  <l>Tho little, it will grow</l>
+                  <l>Into a Mount, and fill the Seat</l>
+                  <l>Of Monarchs here below.<note place="margin">Mr. <hi>Raſeſon.</hi>
+                     </note>
+                  </l>
+                  <l>That Stone which from the Mountain was</l>
+                  <l>Cut out, without a Hand,</l>
+                  <l>Into a Mountain, let it grow,</l>
+                  <l>And all the World command.</l>
+               </lg>
+               <lg>
+                  <l>A burdenſome Foundation-ſtone,</l>
+                  <l>In <hi>Zion</hi> there ſhall lie:</l>
+                  <l>All that do ſpurn againſt that Stone,</l>
+                  <l>Shall by it fall and die.</l>
+                  <l>Then all Chriſt's marked Ones, they ſhall</l>
+                  <l>With him aſcend the Throne;</l>
+                  <l>Then all the World to him will bow,</l>
+                  <l>When he ſhall reign alone.</l>
+               </lg>
+               <lg>
+                  <l>Lord Jeſus haſte unto thy Throne,</l>
+                  <l>We no more Captives be;</l>
+                  <l>And fly upon the Wings of Love,</l>
+                  <l>For thee we long to ſee.</l>
+                  <l>This bleſſed Day no Night will have,</l>
+                  <l>The Moon will be a Sun;</l>
+                  <l>A ſeven-fold Light the Sun will be:</l>
+                  <l>O were this Day begun.</l>
+               </lg>
+               <lg>
+                  <pb n="99" facs="tcp:109813:48"/>
+                  <l>Come haſte that bleſſed break of Light,</l>
+                  <l>Let Shadows flee away;</l>
+                  <l>When Ordinances all ſhall ceaſe,</l>
+                  <l>Come on Eternal Day.</l>
+                  <l>Then through a Glaſs ſhall look no more,</l>
+                  <l>Unleſs the Glaſs Divine;</l>
+                  <l>We ſhall through humane Nature ſee,</l>
+                  <l>The bleſſed God-head ſhine.</l>
+               </lg>
+               <lg>
+                  <l>The Glaſs of Ordinances ceaſe,</l>
+                  <l>Now look through them no more,</l>
+                  <l>Nor Creatures Word or Promiſes,</l>
+                  <l>When we ſee God moſt pure:</l>
+                  <l>Then we ſhall in each Boſom's reſt,</l>
+                  <l>As in a Bed Divine;</l>
+                  <l>And fulneſs of pure Joy ſhall have,</l>
+                  <l>When God doth on us ſhine.</l>
+               </lg>
+               <lg>
+                  <l>Now Righteous Ones they entrance have,</l>
+                  <l>Into this Palace Royal,</l>
+                  <l>There where no Curſe ſhall ever be,</l>
+                  <l>Or any time of Trial.</l>
+                  <l>That City of <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>In Viſion <hi>John</hi> did ſee,</l>
+                  <l>Deſcending out of Heaven above,</l>
+                  <l>With glorious Majeſty.</l>
+               </lg>
+               <lg>
+                  <l>This City which doth entertain</l>
+                  <l>The People of the Lord;</l>
+                  <pb n="100" facs="tcp:109813:49"/>
+                  <l>It is ſet forth by Metaphors,</l>
+                  <l>So is not underſtood.</l>
+                  <l>The Walls of Stone moſt precious are,</l>
+                  <l>And the Foundation too;</l>
+                  <l>Twelve thouſand Furlongs is the Breadth,</l>
+                  <l>The Length and Height alſo.</l>
+               </lg>
+               <lg>
+                  <l>Twelve Gates, twelve Angels at the Gates,</l>
+                  <l>That keep both Watch and Ward:</l>
+                  <l>No evil thing can enter there,</l>
+                  <l>Tho they ſtand all abroad.</l>
+                  <l>And on thoſe Gates the Names are writ,</l>
+                  <l>Of the twelve bleſſed Tribes</l>
+                  <l>Of the Children of <hi>Iſrael,</hi>
+                  </l>
+                  <l>In whom the Truth abides.</l>
+               </lg>
+               <lg>
+                  <l>And twelve Foundations hath the Wall</l>
+                  <l>Of this moſt Royal City;</l>
+                  <l>In which Foundation there is writ</l>
+                  <l>Their Names, the Lamb did pity.</l>
+                  <l>The twelve Apoſtles of the Lamb</l>
+                  <l>Were written fair thereon;</l>
+                  <l>There is no City like to this,</l>
+                  <l>Free, Holy, without Sin.</l>
+               </lg>
+               <lg>
+                  <l>Pure Jaſper was the Wall built of,</l>
+                  <l>The City of pure Gold:</l>
+                  <l>Gold is the Streets of this rich Place,</l>
+                  <l>Its Worth cannot be told.</l>
+                  <pb n="101" facs="tcp:109813:49"/>
+                  <l>Twelve glorious Pearls the Gates thereof,</l>
+                  <l>One Pearl every Gate;</l>
+                  <l>And the Foundation richly deck'd</l>
+                  <l>With precious Stones of State.</l>
+               </lg>
+               <lg>
+                  <l>And from this City glorious Streams</l>
+                  <l>Of living Water comes,</l>
+                  <l>Out of the Throne of God the Lamb,</l>
+                  <l>Are moſt refreſhing Streams.</l>
+                  <l>And in the middle of the Street,</l>
+                  <l>And either ſide the River,</l>
+                  <l>Twelve ſorts of Fruits the Tree of Life</l>
+                  <l>Did bear, to heal us ever.</l>
+               </lg>
+               <lg>
+                  <l>And here the Throne of God ſhall be,</l>
+                  <l>Alſo the Lamb's high Throne;</l>
+                  <l>And there his Servants ſhall be free,</l>
+                  <l>To ſerve the Holy One:</l>
+                  <l>And they ſhall ſee his bleſſed Face,</l>
+                  <l>And bear his glorious Name;</l>
+                  <l>Which on their Foreheads ſhall have place,</l>
+                  <l>His Image to proclaim.</l>
+               </lg>
+               <lg>
+                  <l>And then and there ſhall be no Night,</l>
+                  <l>For God the Lord moſt High,</l>
+                  <l>Will be their Temple, and their Light,</l>
+                  <l>To all Eternity.<note place="margin">Mr. <hi>Barton.</hi>
+                     </note>
+                  </l>
+                  <l>Now bleſſed Jeſus his will lead,</l>
+                  <l>To living Water-Springs,</l>
+                  <pb n="102" facs="tcp:109813:50"/>
+                  <l>Where Tears ſhall all be waſh'd away,</l>
+                  <l>A City full of Kings.</l>
+               </lg>
+               <lg>
+                  <l>Law-Righteouſneſs could not procure</l>
+                  <l>Such Thrones and Kingdoms great,</l>
+                  <l>Such Palms and Robes as Saints ſhall have</l>
+                  <l>When they in Heaven meet.</l>
+                  <l>Strike up you bleſſed Spirits in Bliſs,</l>
+                  <l>Your Songs moſt lofty high;</l>
+                  <l>You ſeparated Souls in Bliſs</l>
+                  <l>Praiſe him, as well you may.<note place="margin">Mr. <hi>Reeves.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Unto the Lamb, whoſe Seat is ſet</l>
+                  <l>In midſt of the great Throne;</l>
+                  <l>He there was ſeen who had been ſlain;</l>
+                  <l>By Saints and Angels known.</l>
+                  <l>'Twas thou waſt ſlain, and haſt redeem'd</l>
+                  <l>All Nations by thy Blood;</l>
+                  <l>Therefore worthy to ope the Book,</l>
+                  <l>The Myſteries of God.</l>
+               </lg>
+               <lg>
+                  <l>The Book ſeen in <hi>Jehovah</hi>'s Hand,</l>
+                  <l>Written without, within,</l>
+                  <l>Which do contain God's Counſels great</l>
+                  <l>Unto the final End.</l>
+                  <l>O holy Jeſus, bleſſed Lamb,</l>
+                  <l>
+                     <hi>John</hi>'s Sorrows did prevent.</l>
+                  <l>Thou <hi>David</hi>'s Root, and <hi>Judah</hi>'s Lion,</l>
+                  <l>Waſt fit to ope the Book.</l>
+               </lg>
+               <lg>
+                  <pb n="103" facs="tcp:109813:50"/>
+                  <l>A Perſon very fit to Rule</l>
+                  <l>Both this World, and the Church:</l>
+                  <l>Therefore all Power is given him,</l>
+                  <l>Becauſe there is none ſuch.</l>
+                  <l>Let's praiſe this King for ever-more,</l>
+                  <l>With Angels, Elders, Beaſts;</l>
+                  <l>Church-Militant, and Triumphant,</l>
+                  <l>Adore the Lord of Hoſts.</l>
+               </lg>
+               <lg>
+                  <l>Ye noble Hoſt of Martyrs all,</l>
+                  <l>The glorious Prophets too;</l>
+                  <l>Angels, Apoſtles, Arch-Angels,</l>
+                  <l>Praiſe him the Lord moſt true.</l>
+                  <l>Who can declare the ſweet Jub'lee</l>
+                  <l>In Heaven ſolemniz'd,</l>
+                  <l>By Seraphims, and Cherubims,</l>
+                  <l>And Principalities?</l>
+               </lg>
+               <lg>
+                  <l>Powers and all, Dominions too,</l>
+                  <l>To him do caſt their Crowns;</l>
+                  <l>Then thouſand times ten thouſand Tens</l>
+                  <l>In holy Thanks abound,</l>
+                  <l>Crying, O holy, holy Lord,</l>
+                  <l>The Lamb in glorious State.</l>
+                  <l>O Holy Ghoſt, Holy and True,</l>
+                  <l>Who did the Creatures make,</l>
+               </lg>
+               <lg>
+                  <l>Redeemed Men, for ever ſing</l>
+                  <l>Of Surety-Righteouſneſs;</l>
+                  <pb n="104" facs="tcp:109813:51"/>
+                  <l>They'l have it there for ever-more,</l>
+                  <l>In everlaſting Bliſs.</l>
+                  <l>Come let us join the Creatures all,</l>
+                  <l>In Heaven, Earth, and Sea;</l>
+                  <l>All Creatures with loud Voices cry,</l>
+                  <l>Worthy, O Lamb, worthy.</l>
+               </lg>
+               <lg>
+                  <l>All Wiſdom, Riches, to receive</l>
+                  <l>Strength, Bleſſing, Glory too,</l>
+                  <l>From all in Heaven, in Earth and Sea,</l>
+                  <l>Is thine Eternal due.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>BOOK the Firſt, Page 16. line the firſt, afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>thouſand,</hi> add, <hi>&amp;c.</hi> Pag. 77. l. 23. for <hi>things</hi> read <hi>Temptations.</hi>
+            </p>
+            <p>Book 2. Pag. 33. l. 19. read 27 <hi>Years.</hi> Pag. 24 l. 29. for <hi>ſad,</hi> read <hi>ſaid.</hi>
+            </p>
+            <p>In the Poems, Pag. 9. l. 11. read, <hi>is brandiſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for it.</hi> P. 31. l. 1. read <hi>adorn.</hi> P. 75. l. 5. rea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>they.</hi> P. 96. l. 1. read <hi>what's.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
